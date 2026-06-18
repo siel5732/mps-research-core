@@ -89,6 +89,9 @@ python3 mps_attenuated_somatic_simulator.py
 # Run compound heterozygous allelic dosage simulation:
 python3 mps_compound_heterozygous_simulator.py
 
+# Run Genzyme/Sanofi public clinical data harvester:
+python3 mps_sanofi_harvester.py
+
 # Run public medical NCBI data harvester (fetches clinical papers live from PubMed Central):
 python3 mps_data_harvester.py
 ```

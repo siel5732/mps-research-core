@@ -1,0 +1,91 @@
+{
+  "source": "Sanofi Genzyme Public Clinical Data",
+  "total_articles": 4,
+  "articles": [
+    {
+      "pmcid": "PMC13269169",
+      "title": "Amoxicillin-Induced Drug-Induced Liver Injury Superimposed on Acute Hepatitis C Infection in a Patient With Hurler Syndrome: A Diagnostic Challenge Assessed by the Updated RUCAM.",
+      "journal": "Case Reports Hepatol",
+      "publish_date": "2026",
+      "authors": [
+        "Garg A",
+        "Seshie P",
+        "Chouthai A",
+        "Raval S",
+        "Santharaman A",
+        "Manzoor A",
+        "Broder A"
+      ],
+      "doi": "42311560",
+      "summary_text": "Title: Amoxicillin-Induced Drug-Induced Liver Injury Superimposed on Acute Hepatitis C Infection in a Patient With Hurler Syndrome: A Diagnostic Challenge Assessed by the Updated RUCAM.. Published in Case Reports Hepatol on 2026. Authors: Garg A, Seshie P, Chouthai A, Raval S, Santharaman A."
+    },
+    {
+      "pmcid": "PMC13258179",
+      "title": "Establishment of an N-Glycan Profiling Method for Three ERT Enzymes Used in Gaucher Disease Therapy.",
+      "journal": "Molecules",
+      "publish_date": "2026 Jun 1",
+      "authors": [
+        "Chen J",
+        "Hu X",
+        "Wang L",
+        "Xu K",
+        "Li J",
+        "Wang Y",
+        "Liang C"
+      ],
+      "doi": "42280207",
+      "summary_text": "Title: Establishment of an N-Glycan Profiling Method for Three ERT Enzymes Used in Gaucher Disease Therapy.. Published in Molecules on 2026 Jun 1. Authors: Chen J, Hu X, Wang L, Xu K, Li J."
+    },
+    {
+      "pmcid": "PMC13233543",
+      "title": "Defect in lysosomal enzyme trafficking and sorting is associated with irreversibility of pulmonary arterial hypertension.",
+      "journal": "Front Cardiovasc Med",
+      "publish_date": "2026",
+      "authors": [
+        "Xiao G",
+        "Meng Y",
+        "Du Z",
+        "Liu Z",
+        "Yu H",
+        "Wang H",
+        "Nie L",
+        "Liu X",
+        "Lan X",
+        "Duan Y",
+        "Xiong J",
+        "Liu Z"
+      ],
+      "doi": "42257032",
+      "summary_text": "Title: Defect in lysosomal enzyme trafficking and sorting is associated with irreversibility of pulmonary arterial hypertension.. Published in Front Cardiovasc Med on 2026. Authors: Xiao G, Meng Y, Du Z, Liu Z, Yu H."
+    },
+    {
+      "pmcid": "PMC13258356",
+      "title": "Growth Patterns in MPS IVA and MPS IIIA: A Longitudinal Single-Center Study.",
+      "journal": "J Clin Med",
+      "publish_date": "2026 May 28",
+      "authors": [
+        "Carmon L",
+        "Nassar M",
+        "Idan D",
+        "Leifman D",
+        "Shaki D",
+        "Elamour S",
+        "Hershkovitz E",
+        "Loewenthal N",
+        "Haim A",
+        "Chacham OS"
+      ],
+      "doi": "42279040",
+      "summary_text": "Title: Growth Patterns in MPS IVA and MPS IIIA: A Longitudinal Single-Center Study.. Published in J Clin Med on 2026 May 28. Authors: Carmon L, Nassar M, Idan D, Leifman D, Shaki D."
+    }
+  ],
+  "prescribing_information_pk_pd": {
+    "recombinant_enzyme_name": "Laronidase (Aldurazyme)",
+    "standard_infusion_dose": "0.58 mg/kg (administered once weekly over 4 hours)",
+    "infusion_rate_ramp": "Gradual ramp-up over 1st hour to prevent infusion reactions",
+    "mean_clearance_cl": "1.7 to 2.9 mL/min/kg",
+    "mean_volume_of_distribution_vd": "0.24 to 0.6 L/kg",
+    "elimination_half_life_t12": "1.5 to 3.6 hours",
+    "immunogenicity_ada_rates": "Up to 91% of patients develop Anti-Drug Antibodies (ADA), typically plateauing by Week 12. Model indicates ADA decreases free serum clearance but does not alter tissue cellular endocytosis via M6P receptors."
+  }
+}
