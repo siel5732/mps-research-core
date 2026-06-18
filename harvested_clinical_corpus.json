@@ -1,0 +1,156 @@
+{
+  "harvester_v": "1.0",
+  "search_query": "Mucopolysaccharidosis Type I AND (gene therapy OR Aldurazyme OR cartilage)",
+  "total_harvested": 8,
+  "articles": [
+    {
+      "pmcid": "PMC13269169",
+      "title": "Amoxicillin-Induced Drug-Induced Liver Injury Superimposed on Acute Hepatitis C Infection in a Patient With Hurler Syndrome: A Diagnostic Challenge Assessed by the Updated RUCAM.",
+      "journal": "Case Reports Hepatol",
+      "publish_date": "2026",
+      "authors": [
+        "Garg A",
+        "Seshie P",
+        "Chouthai A",
+        "Raval S",
+        "Santharaman A",
+        "Manzoor A",
+        "Broder A"
+      ],
+      "doi": "42311560",
+      "summary_text": "Title: Amoxicillin-Induced Drug-Induced Liver Injury Superimposed on Acute Hepatitis C Infection in a Patient With Hurler Syndrome: A Diagnostic Challenge Assessed by the Updated RUCAM.. Published in Case Reports Hepatol on 2026. Authors: Garg A, Seshie P, Chouthai A, Raval S, Santharaman A."
+    },
+    {
+      "pmcid": "PMC13264674",
+      "title": "A Rare Case of Mucopolysaccharidosis Presenting With Dysostosis Multiplex and Preserved Intelligence in a Seven-Year-Old Girl From Northeast India.",
+      "journal": "Cureus",
+      "publish_date": "2026 May",
+      "authors": [
+        "Roy P",
+        "Roy P"
+      ],
+      "doi": "42299182",
+      "summary_text": "Title: A Rare Case of Mucopolysaccharidosis Presenting With Dysostosis Multiplex and Preserved Intelligence in a Seven-Year-Old Girl From Northeast India.. Published in Cureus on 2026 May. Authors: Roy P, Roy P."
+    },
+    {
+      "pmcid": "PMC13258356",
+      "title": "Growth Patterns in MPS IVA and MPS IIIA: A Longitudinal Single-Center Study.",
+      "journal": "J Clin Med",
+      "publish_date": "2026 May 28",
+      "authors": [
+        "Carmon L",
+        "Nassar M",
+        "Idan D",
+        "Leifman D",
+        "Shaki D",
+        "Elamour S",
+        "Hershkovitz E",
+        "Loewenthal N",
+        "Haim A",
+        "Chacham OS"
+      ],
+      "doi": "42279040",
+      "summary_text": "Title: Growth Patterns in MPS IVA and MPS IIIA: A Longitudinal Single-Center Study.. Published in J Clin Med on 2026 May 28. Authors: Carmon L, Nassar M, Idan D, Leifman D, Shaki D."
+    },
+    {
+      "pmcid": "PMC13248298",
+      "title": "An international observational study on transition of care from paediatric to adult services for patients with mucopolysaccharidosis II.",
+      "journal": "BMC Health Serv Res",
+      "publish_date": "2026 Jun 6",
+      "authors": [
+        "Stepien KM",
+        "Ayodele O",
+        "Muenzer J",
+        "Giugliani R",
+        "Jackson C",
+        "Meade L",
+        "Scarpa M",
+        "Lampe C",
+        "Audi J",
+        "Jain S",
+        "Toro MD"
+      ],
+      "doi": "42251390",
+      "summary_text": "Title: An international observational study on transition of care from paediatric to adult services for patients with mucopolysaccharidosis II.. Published in BMC Health Serv Res on 2026 Jun 6. Authors: Stepien KM, Ayodele O, Muenzer J, Giugliani R, Jackson C."
+    },
+    {
+      "pmcid": "PMC12172329",
+      "title": "Current clinical applications of AAV-mediated gene therapy.",
+      "journal": "Mol Ther",
+      "publish_date": "2025 Jun 4",
+      "authors": [
+        "Byrne BJ",
+        "Flanigan KM",
+        "Matesanz SE",
+        "Finkel RS",
+        "Waldrop MA",
+        "D'Ambrosio ES",
+        "Johnson NE",
+        "Smith BK",
+        "B\u00f6nnemann C",
+        "Carrig S",
+        "Rossano JW",
+        "Greenberg B",
+        "Lalaguna L",
+        "Lara-Pezzi E",
+        "Subramony S",
+        "Corti M",
+        "Mercado-Rodriguez C",
+        "Leon-Astudillo C",
+        "Ahrens-Nicklas R",
+        "Bharucha-Goebel D",
+        "Gao G",
+        "Gessler DJ",
+        "Hwu WL",
+        "Chien YH",
+        "Lee NC",
+        "Boye SL",
+        "Boye SE",
+        "George LA"
+      ],
+      "doi": "40329530",
+      "summary_text": "Title: Current clinical applications of AAV-mediated gene therapy.. Published in Mol Ther on 2025 Jun 4. Authors: Byrne BJ, Flanigan KM, Matesanz SE, Finkel RS, Waldrop MA."
+    },
+    {
+      "pmcid": "PMC12172270",
+      "title": "Clinical hematopoietic stem cell-based gene therapy.",
+      "journal": "Mol Ther",
+      "publish_date": "2025 Jun 4",
+      "authors": [
+        "John T",
+        "Czechowicz A"
+      ],
+      "doi": "40285354",
+      "summary_text": "Title: Clinical hematopoietic stem cell-based gene therapy.. Published in Mol Ther on 2025 Jun 4. Authors: John T, Czechowicz A."
+    },
+    {
+      "pmcid": "PMC12172285",
+      "title": "Clinical perspective: Advancing hemophilia treatment through gene therapy approaches.",
+      "journal": "Mol Ther",
+      "publish_date": "2025 Jun 4",
+      "authors": [
+        "Thornburg CD",
+        "Pipe SW",
+        "Cantore A",
+        "Unzu C",
+        "Jones M",
+        "Miesbach WA"
+      ],
+      "doi": "40263938",
+      "summary_text": "Title: Clinical perspective: Advancing hemophilia treatment through gene therapy approaches.. Published in Mol Ther on 2025 Jun 4. Authors: Thornburg CD, Pipe SW, Cantore A, Unzu C, Jones M."
+    },
+    {
+      "pmcid": "PMC12172193",
+      "title": "Recent advances in therapeutic gene-editing technologies.",
+      "journal": "Mol Ther",
+      "publish_date": "2025 Jun 4",
+      "authors": [
+        "Liu D",
+        "Cao D",
+        "Han R"
+      ],
+      "doi": "40119516",
+      "summary_text": "Title: Recent advances in therapeutic gene-editing technologies.. Published in Mol Ther on 2025 Jun 4. Authors: Liu D, Cao D, Han R."
+    }
+  ]
+}
