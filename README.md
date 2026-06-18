@@ -72,6 +72,9 @@ python3 mps_cartilage_diffusion_simulator.py
 
 # Run pediatric liver mitotic dilution simulation:
 python3 mps_liver_gene_editing_simulator.py
+
+# Run public medical NCBI data harvester (fetches clinical papers live from PubMed Central):
+python3 mps_data_harvester.py
 ```
 
 Outputs are automatically cached as machine-readable JSON files (e.g., `mps_clinical_trial_results.json`) in the active working directory, making them easily queryable by data-analysis engines and machine learning pipelines.
