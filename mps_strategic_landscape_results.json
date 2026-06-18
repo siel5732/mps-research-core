@@ -1,0 +1,1115 @@
+{
+  "sanofi_ert": {
+    "final_cognitive": 5.0,
+    "final_visceral": 88.8,
+    "final_joint_skeletal": 15.0,
+    "final_immunological": 10.0,
+    "total_qaly": 19.56,
+    "lifetime_cost_usd": 11800000.0,
+    "cost_effectiveness_ratio_usd_per_qaly": 603309.77,
+    "history": [
+      {
+        "year": 1,
+        "cognitive_integrity_index": 92.5,
+        "visceral_health_index": 100.0,
+        "joint_skeletal_health_index": 97.8,
+        "immunological_safety_index": 96.5,
+        "annual_qaly_yield": 0.96,
+        "cumulative_cost_usd": 295000.0
+      },
+      {
+        "year": 2,
+        "cognitive_integrity_index": 85.0,
+        "visceral_health_index": 99.9,
+        "joint_skeletal_health_index": 95.6,
+        "immunological_safety_index": 93.0,
+        "annual_qaly_yield": 0.919,
+        "cumulative_cost_usd": 590000.0
+      },
+      {
+        "year": 3,
+        "cognitive_integrity_index": 77.5,
+        "visceral_health_index": 99.8,
+        "joint_skeletal_health_index": 93.4,
+        "immunological_safety_index": 89.5,
+        "annual_qaly_yield": 0.879,
+        "cumulative_cost_usd": 885000.0
+      },
+      {
+        "year": 4,
+        "cognitive_integrity_index": 70.0,
+        "visceral_health_index": 99.8,
+        "joint_skeletal_health_index": 91.2,
+        "immunological_safety_index": 86.0,
+        "annual_qaly_yield": 0.838,
+        "cumulative_cost_usd": 1180000.0
+      },
+      {
+        "year": 5,
+        "cognitive_integrity_index": 62.5,
+        "visceral_health_index": 99.7,
+        "joint_skeletal_health_index": 89.0,
+        "immunological_safety_index": 82.5,
+        "annual_qaly_yield": 0.797,
+        "cumulative_cost_usd": 1475000.0
+      },
+      {
+        "year": 6,
+        "cognitive_integrity_index": 55.0,
+        "visceral_health_index": 99.5,
+        "joint_skeletal_health_index": 86.8,
+        "immunological_safety_index": 79.0,
+        "annual_qaly_yield": 0.757,
+        "cumulative_cost_usd": 1770000.0
+      },
+      {
+        "year": 7,
+        "cognitive_integrity_index": 47.5,
+        "visceral_health_index": 99.4,
+        "joint_skeletal_health_index": 84.6,
+        "immunological_safety_index": 75.5,
+        "annual_qaly_yield": 0.716,
+        "cumulative_cost_usd": 2065000.0
+      },
+      {
+        "year": 8,
+        "cognitive_integrity_index": 40.0,
+        "visceral_health_index": 99.3,
+        "joint_skeletal_health_index": 82.4,
+        "immunological_safety_index": 72.0,
+        "annual_qaly_yield": 0.675,
+        "cumulative_cost_usd": 2360000.0
+      },
+      {
+        "year": 9,
+        "cognitive_integrity_index": 32.5,
+        "visceral_health_index": 99.1,
+        "joint_skeletal_health_index": 80.2,
+        "immunological_safety_index": 68.5,
+        "annual_qaly_yield": 0.635,
+        "cumulative_cost_usd": 2655000.0
+      },
+      {
+        "year": 10,
+        "cognitive_integrity_index": 25.0,
+        "visceral_health_index": 99.0,
+        "joint_skeletal_health_index": 78.0,
+        "immunological_safety_index": 65.0,
+        "annual_qaly_yield": 0.594,
+        "cumulative_cost_usd": 2950000.0
+      },
+      {
+        "year": 11,
+        "cognitive_integrity_index": 17.5,
+        "visceral_health_index": 98.8,
+        "joint_skeletal_health_index": 75.8,
+        "immunological_safety_index": 61.5,
+        "annual_qaly_yield": 0.553,
+        "cumulative_cost_usd": 3245000.0
+      },
+      {
+        "year": 12,
+        "cognitive_integrity_index": 10.0,
+        "visceral_health_index": 98.6,
+        "joint_skeletal_health_index": 73.6,
+        "immunological_safety_index": 58.0,
+        "annual_qaly_yield": 0.512,
+        "cumulative_cost_usd": 3540000.0
+      },
+      {
+        "year": 13,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 98.4,
+        "joint_skeletal_health_index": 71.4,
+        "immunological_safety_index": 54.5,
+        "annual_qaly_yield": 0.483,
+        "cumulative_cost_usd": 3835000.0
+      },
+      {
+        "year": 14,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 98.2,
+        "joint_skeletal_health_index": 69.2,
+        "immunological_safety_index": 51.0,
+        "annual_qaly_yield": 0.476,
+        "cumulative_cost_usd": 4130000.0
+      },
+      {
+        "year": 15,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 97.9,
+        "joint_skeletal_health_index": 67.0,
+        "immunological_safety_index": 47.5,
+        "annual_qaly_yield": 0.468,
+        "cumulative_cost_usd": 4425000.0
+      },
+      {
+        "year": 16,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 97.7,
+        "joint_skeletal_health_index": 64.8,
+        "immunological_safety_index": 44.0,
+        "annual_qaly_yield": 0.461,
+        "cumulative_cost_usd": 4720000.0
+      },
+      {
+        "year": 17,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 97.4,
+        "joint_skeletal_health_index": 62.6,
+        "immunological_safety_index": 40.5,
+        "annual_qaly_yield": 0.454,
+        "cumulative_cost_usd": 5015000.0
+      },
+      {
+        "year": 18,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 97.1,
+        "joint_skeletal_health_index": 60.4,
+        "immunological_safety_index": 37.0,
+        "annual_qaly_yield": 0.447,
+        "cumulative_cost_usd": 5310000.0
+      },
+      {
+        "year": 19,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 96.8,
+        "joint_skeletal_health_index": 58.2,
+        "immunological_safety_index": 33.5,
+        "annual_qaly_yield": 0.439,
+        "cumulative_cost_usd": 5605000.0
+      },
+      {
+        "year": 20,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 96.5,
+        "joint_skeletal_health_index": 56.0,
+        "immunological_safety_index": 30.0,
+        "annual_qaly_yield": 0.432,
+        "cumulative_cost_usd": 5900000.0
+      },
+      {
+        "year": 21,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 96.2,
+        "joint_skeletal_health_index": 53.8,
+        "immunological_safety_index": 26.5,
+        "annual_qaly_yield": 0.424,
+        "cumulative_cost_usd": 6195000.0
+      },
+      {
+        "year": 22,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 95.9,
+        "joint_skeletal_health_index": 51.6,
+        "immunological_safety_index": 23.0,
+        "annual_qaly_yield": 0.417,
+        "cumulative_cost_usd": 6490000.0
+      },
+      {
+        "year": 23,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 95.5,
+        "joint_skeletal_health_index": 49.4,
+        "immunological_safety_index": 19.5,
+        "annual_qaly_yield": 0.41,
+        "cumulative_cost_usd": 6785000.0
+      },
+      {
+        "year": 24,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 95.2,
+        "joint_skeletal_health_index": 47.2,
+        "immunological_safety_index": 16.0,
+        "annual_qaly_yield": 0.402,
+        "cumulative_cost_usd": 7080000.0
+      },
+      {
+        "year": 25,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 94.8,
+        "joint_skeletal_health_index": 45.0,
+        "immunological_safety_index": 12.5,
+        "annual_qaly_yield": 0.394,
+        "cumulative_cost_usd": 7375000.0
+      },
+      {
+        "year": 26,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 94.4,
+        "joint_skeletal_health_index": 42.8,
+        "immunological_safety_index": 10.0,
+        "annual_qaly_yield": 0.387,
+        "cumulative_cost_usd": 7670000.0
+      },
+      {
+        "year": 27,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 94.0,
+        "joint_skeletal_health_index": 40.6,
+        "immunological_safety_index": 10.0,
+        "annual_qaly_yield": 0.379,
+        "cumulative_cost_usd": 7965000.0
+      },
+      {
+        "year": 28,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 93.6,
+        "joint_skeletal_health_index": 38.4,
+        "immunological_safety_index": 10.0,
+        "annual_qaly_yield": 0.372,
+        "cumulative_cost_usd": 8260000.0
+      },
+      {
+        "year": 29,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 93.2,
+        "joint_skeletal_health_index": 36.2,
+        "immunological_safety_index": 10.0,
+        "annual_qaly_yield": 0.364,
+        "cumulative_cost_usd": 8555000.0
+      },
+      {
+        "year": 30,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 92.8,
+        "joint_skeletal_health_index": 34.0,
+        "immunological_safety_index": 10.0,
+        "annual_qaly_yield": 0.357,
+        "cumulative_cost_usd": 8850000.0
+      },
+      {
+        "year": 31,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 92.4,
+        "joint_skeletal_health_index": 31.8,
+        "immunological_safety_index": 10.0,
+        "annual_qaly_yield": 0.349,
+        "cumulative_cost_usd": 9145000.0
+      },
+      {
+        "year": 32,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 92.0,
+        "joint_skeletal_health_index": 29.6,
+        "immunological_safety_index": 10.0,
+        "annual_qaly_yield": 0.341,
+        "cumulative_cost_usd": 9440000.0
+      },
+      {
+        "year": 33,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 91.6,
+        "joint_skeletal_health_index": 27.4,
+        "immunological_safety_index": 10.0,
+        "annual_qaly_yield": 0.334,
+        "cumulative_cost_usd": 9735000.0
+      },
+      {
+        "year": 34,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 91.2,
+        "joint_skeletal_health_index": 25.2,
+        "immunological_safety_index": 10.0,
+        "annual_qaly_yield": 0.326,
+        "cumulative_cost_usd": 10030000.0
+      },
+      {
+        "year": 35,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 90.8,
+        "joint_skeletal_health_index": 23.0,
+        "immunological_safety_index": 10.0,
+        "annual_qaly_yield": 0.319,
+        "cumulative_cost_usd": 10325000.0
+      },
+      {
+        "year": 36,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 90.4,
+        "joint_skeletal_health_index": 20.8,
+        "immunological_safety_index": 10.0,
+        "annual_qaly_yield": 0.311,
+        "cumulative_cost_usd": 10620000.0
+      },
+      {
+        "year": 37,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 90.0,
+        "joint_skeletal_health_index": 18.6,
+        "immunological_safety_index": 10.0,
+        "annual_qaly_yield": 0.303,
+        "cumulative_cost_usd": 10915000.0
+      },
+      {
+        "year": 38,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 89.6,
+        "joint_skeletal_health_index": 16.4,
+        "immunological_safety_index": 10.0,
+        "annual_qaly_yield": 0.296,
+        "cumulative_cost_usd": 11210000.0
+      },
+      {
+        "year": 39,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 89.2,
+        "joint_skeletal_health_index": 15.0,
+        "immunological_safety_index": 10.0,
+        "annual_qaly_yield": 0.291,
+        "cumulative_cost_usd": 11505000.0
+      },
+      {
+        "year": 40,
+        "cognitive_integrity_index": 5.0,
+        "visceral_health_index": 88.8,
+        "joint_skeletal_health_index": 15.0,
+        "immunological_safety_index": 10.0,
+        "annual_qaly_yield": 0.29,
+        "cumulative_cost_usd": 11800000.0
+      }
+    ]
+  },
+  "clinical_hospital_aav_hsct": {
+    "final_cognitive": 84.0,
+    "final_visceral": 77.5,
+    "final_joint_skeletal": 43.2,
+    "final_immunological": 92.0,
+    "total_qaly": 31.57,
+    "lifetime_cost_usd": 3085000.0,
+    "cost_effectiveness_ratio_usd_per_qaly": 97708.99,
+    "history": [
+      {
+        "year": 1,
+        "cognitive_integrity_index": 99.6,
+        "visceral_health_index": 99.9,
+        "joint_skeletal_health_index": 98.9,
+        "immunological_safety_index": 99.8,
+        "annual_qaly_yield": 0.995,
+        "cumulative_cost_usd": 2500000.0
+      },
+      {
+        "year": 2,
+        "cognitive_integrity_index": 99.2,
+        "visceral_health_index": 99.8,
+        "joint_skeletal_health_index": 97.8,
+        "immunological_safety_index": 99.6,
+        "annual_qaly_yield": 0.989,
+        "cumulative_cost_usd": 2515000.0
+      },
+      {
+        "year": 3,
+        "cognitive_integrity_index": 98.8,
+        "visceral_health_index": 97.2,
+        "joint_skeletal_health_index": 94.9,
+        "immunological_safety_index": 99.4,
+        "annual_qaly_yield": 0.972,
+        "cumulative_cost_usd": 2530000.0
+      },
+      {
+        "year": 4,
+        "cognitive_integrity_index": 98.4,
+        "visceral_health_index": 94.6,
+        "joint_skeletal_health_index": 92.0,
+        "immunological_safety_index": 99.2,
+        "annual_qaly_yield": 0.955,
+        "cumulative_cost_usd": 2545000.0
+      },
+      {
+        "year": 5,
+        "cognitive_integrity_index": 98.0,
+        "visceral_health_index": 92.0,
+        "joint_skeletal_health_index": 89.1,
+        "immunological_safety_index": 99.0,
+        "annual_qaly_yield": 0.938,
+        "cumulative_cost_usd": 2560000.0
+      },
+      {
+        "year": 6,
+        "cognitive_integrity_index": 97.6,
+        "visceral_health_index": 89.4,
+        "joint_skeletal_health_index": 86.2,
+        "immunological_safety_index": 98.8,
+        "annual_qaly_yield": 0.921,
+        "cumulative_cost_usd": 2575000.0
+      },
+      {
+        "year": 7,
+        "cognitive_integrity_index": 97.2,
+        "visceral_health_index": 86.8,
+        "joint_skeletal_health_index": 83.3,
+        "immunological_safety_index": 98.6,
+        "annual_qaly_yield": 0.904,
+        "cumulative_cost_usd": 2590000.0
+      },
+      {
+        "year": 8,
+        "cognitive_integrity_index": 96.8,
+        "visceral_health_index": 84.2,
+        "joint_skeletal_health_index": 80.4,
+        "immunological_safety_index": 98.4,
+        "annual_qaly_yield": 0.887,
+        "cumulative_cost_usd": 2605000.0
+      },
+      {
+        "year": 9,
+        "cognitive_integrity_index": 96.4,
+        "visceral_health_index": 81.6,
+        "joint_skeletal_health_index": 77.5,
+        "immunological_safety_index": 98.2,
+        "annual_qaly_yield": 0.87,
+        "cumulative_cost_usd": 2620000.0
+      },
+      {
+        "year": 10,
+        "cognitive_integrity_index": 96.0,
+        "visceral_health_index": 79.0,
+        "joint_skeletal_health_index": 74.6,
+        "immunological_safety_index": 98.0,
+        "annual_qaly_yield": 0.853,
+        "cumulative_cost_usd": 2635000.0
+      },
+      {
+        "year": 11,
+        "cognitive_integrity_index": 95.6,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 71.7,
+        "immunological_safety_index": 97.8,
+        "annual_qaly_yield": 0.839,
+        "cumulative_cost_usd": 2650000.0
+      },
+      {
+        "year": 12,
+        "cognitive_integrity_index": 95.2,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 68.8,
+        "immunological_safety_index": 97.6,
+        "annual_qaly_yield": 0.829,
+        "cumulative_cost_usd": 2665000.0
+      },
+      {
+        "year": 13,
+        "cognitive_integrity_index": 94.8,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 65.9,
+        "immunological_safety_index": 97.4,
+        "annual_qaly_yield": 0.818,
+        "cumulative_cost_usd": 2680000.0
+      },
+      {
+        "year": 14,
+        "cognitive_integrity_index": 94.4,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 63.0,
+        "immunological_safety_index": 97.2,
+        "annual_qaly_yield": 0.808,
+        "cumulative_cost_usd": 2695000.0
+      },
+      {
+        "year": 15,
+        "cognitive_integrity_index": 94.0,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 60.1,
+        "immunological_safety_index": 97.0,
+        "annual_qaly_yield": 0.797,
+        "cumulative_cost_usd": 2710000.0
+      },
+      {
+        "year": 16,
+        "cognitive_integrity_index": 93.6,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 57.2,
+        "immunological_safety_index": 96.8,
+        "annual_qaly_yield": 0.787,
+        "cumulative_cost_usd": 2725000.0
+      },
+      {
+        "year": 17,
+        "cognitive_integrity_index": 93.2,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 54.3,
+        "immunological_safety_index": 96.6,
+        "annual_qaly_yield": 0.776,
+        "cumulative_cost_usd": 2740000.0
+      },
+      {
+        "year": 18,
+        "cognitive_integrity_index": 92.8,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 51.4,
+        "immunological_safety_index": 96.4,
+        "annual_qaly_yield": 0.766,
+        "cumulative_cost_usd": 2755000.0
+      },
+      {
+        "year": 19,
+        "cognitive_integrity_index": 92.4,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 48.5,
+        "immunological_safety_index": 96.2,
+        "annual_qaly_yield": 0.755,
+        "cumulative_cost_usd": 2770000.0
+      },
+      {
+        "year": 20,
+        "cognitive_integrity_index": 92.0,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 45.6,
+        "immunological_safety_index": 96.0,
+        "annual_qaly_yield": 0.745,
+        "cumulative_cost_usd": 2785000.0
+      },
+      {
+        "year": 21,
+        "cognitive_integrity_index": 91.6,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 95.8,
+        "annual_qaly_yield": 0.736,
+        "cumulative_cost_usd": 2800000.0
+      },
+      {
+        "year": 22,
+        "cognitive_integrity_index": 91.2,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 95.6,
+        "annual_qaly_yield": 0.734,
+        "cumulative_cost_usd": 2815000.0
+      },
+      {
+        "year": 23,
+        "cognitive_integrity_index": 90.8,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 95.4,
+        "annual_qaly_yield": 0.732,
+        "cumulative_cost_usd": 2830000.0
+      },
+      {
+        "year": 24,
+        "cognitive_integrity_index": 90.4,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 95.2,
+        "annual_qaly_yield": 0.73,
+        "cumulative_cost_usd": 2845000.0
+      },
+      {
+        "year": 25,
+        "cognitive_integrity_index": 90.0,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 95.0,
+        "annual_qaly_yield": 0.728,
+        "cumulative_cost_usd": 2860000.0
+      },
+      {
+        "year": 26,
+        "cognitive_integrity_index": 89.6,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 94.8,
+        "annual_qaly_yield": 0.727,
+        "cumulative_cost_usd": 2875000.0
+      },
+      {
+        "year": 27,
+        "cognitive_integrity_index": 89.2,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 94.6,
+        "annual_qaly_yield": 0.725,
+        "cumulative_cost_usd": 2890000.0
+      },
+      {
+        "year": 28,
+        "cognitive_integrity_index": 88.8,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 94.4,
+        "annual_qaly_yield": 0.723,
+        "cumulative_cost_usd": 2905000.0
+      },
+      {
+        "year": 29,
+        "cognitive_integrity_index": 88.4,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 94.2,
+        "annual_qaly_yield": 0.721,
+        "cumulative_cost_usd": 2920000.0
+      },
+      {
+        "year": 30,
+        "cognitive_integrity_index": 88.0,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 94.0,
+        "annual_qaly_yield": 0.719,
+        "cumulative_cost_usd": 2935000.0
+      },
+      {
+        "year": 31,
+        "cognitive_integrity_index": 87.6,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 93.8,
+        "annual_qaly_yield": 0.718,
+        "cumulative_cost_usd": 2950000.0
+      },
+      {
+        "year": 32,
+        "cognitive_integrity_index": 87.2,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 93.6,
+        "annual_qaly_yield": 0.716,
+        "cumulative_cost_usd": 2965000.0
+      },
+      {
+        "year": 33,
+        "cognitive_integrity_index": 86.8,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 93.4,
+        "annual_qaly_yield": 0.714,
+        "cumulative_cost_usd": 2980000.0
+      },
+      {
+        "year": 34,
+        "cognitive_integrity_index": 86.4,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 93.2,
+        "annual_qaly_yield": 0.712,
+        "cumulative_cost_usd": 2995000.0
+      },
+      {
+        "year": 35,
+        "cognitive_integrity_index": 86.0,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 93.0,
+        "annual_qaly_yield": 0.71,
+        "cumulative_cost_usd": 3010000.0
+      },
+      {
+        "year": 36,
+        "cognitive_integrity_index": 85.6,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 92.8,
+        "annual_qaly_yield": 0.709,
+        "cumulative_cost_usd": 3025000.0
+      },
+      {
+        "year": 37,
+        "cognitive_integrity_index": 85.2,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 92.6,
+        "annual_qaly_yield": 0.707,
+        "cumulative_cost_usd": 3040000.0
+      },
+      {
+        "year": 38,
+        "cognitive_integrity_index": 84.8,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 92.4,
+        "annual_qaly_yield": 0.705,
+        "cumulative_cost_usd": 3055000.0
+      },
+      {
+        "year": 39,
+        "cognitive_integrity_index": 84.4,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 92.2,
+        "annual_qaly_yield": 0.703,
+        "cumulative_cost_usd": 3070000.0
+      },
+      {
+        "year": 40,
+        "cognitive_integrity_index": 84.0,
+        "visceral_health_index": 77.5,
+        "joint_skeletal_health_index": 43.2,
+        "immunological_safety_index": 92.0,
+        "annual_qaly_yield": 0.701,
+        "cumulative_cost_usd": 3085000.0
+      }
+    ]
+  },
+  "acutisforge_precision": {
+    "final_cognitive": 99.2,
+    "final_visceral": 99.6,
+    "final_joint_skeletal": 94.0,
+    "final_immunological": 98.0,
+    "total_qaly": 39.54,
+    "lifetime_cost_usd": 1775000.0,
+    "cost_effectiveness_ratio_usd_per_qaly": 44895.0,
+    "history": [
+      {
+        "year": 1,
+        "cognitive_integrity_index": 100.0,
+        "visceral_health_index": 100.0,
+        "joint_skeletal_health_index": 99.8,
+        "immunological_safety_index": 100.0,
+        "annual_qaly_yield": 0.999,
+        "cumulative_cost_usd": 800000.0
+      },
+      {
+        "year": 2,
+        "cognitive_integrity_index": 100.0,
+        "visceral_health_index": 100.0,
+        "joint_skeletal_health_index": 99.7,
+        "immunological_safety_index": 99.9,
+        "annual_qaly_yield": 0.999,
+        "cumulative_cost_usd": 825000.0
+      },
+      {
+        "year": 3,
+        "cognitive_integrity_index": 99.9,
+        "visceral_health_index": 100.0,
+        "joint_skeletal_health_index": 99.5,
+        "immunological_safety_index": 99.9,
+        "annual_qaly_yield": 0.998,
+        "cumulative_cost_usd": 850000.0
+      },
+      {
+        "year": 4,
+        "cognitive_integrity_index": 99.9,
+        "visceral_health_index": 100.0,
+        "joint_skeletal_health_index": 99.4,
+        "immunological_safety_index": 99.8,
+        "annual_qaly_yield": 0.998,
+        "cumulative_cost_usd": 875000.0
+      },
+      {
+        "year": 5,
+        "cognitive_integrity_index": 99.9,
+        "visceral_health_index": 99.9,
+        "joint_skeletal_health_index": 99.2,
+        "immunological_safety_index": 99.8,
+        "annual_qaly_yield": 0.997,
+        "cumulative_cost_usd": 900000.0
+      },
+      {
+        "year": 6,
+        "cognitive_integrity_index": 99.9,
+        "visceral_health_index": 99.9,
+        "joint_skeletal_health_index": 99.1,
+        "immunological_safety_index": 99.7,
+        "annual_qaly_yield": 0.997,
+        "cumulative_cost_usd": 925000.0
+      },
+      {
+        "year": 7,
+        "cognitive_integrity_index": 99.9,
+        "visceral_health_index": 99.9,
+        "joint_skeletal_health_index": 98.9,
+        "immunological_safety_index": 99.7,
+        "annual_qaly_yield": 0.996,
+        "cumulative_cost_usd": 950000.0
+      },
+      {
+        "year": 8,
+        "cognitive_integrity_index": 99.8,
+        "visceral_health_index": 99.9,
+        "joint_skeletal_health_index": 98.8,
+        "immunological_safety_index": 99.6,
+        "annual_qaly_yield": 0.995,
+        "cumulative_cost_usd": 975000.0
+      },
+      {
+        "year": 9,
+        "cognitive_integrity_index": 99.8,
+        "visceral_health_index": 99.9,
+        "joint_skeletal_health_index": 98.6,
+        "immunological_safety_index": 99.6,
+        "annual_qaly_yield": 0.995,
+        "cumulative_cost_usd": 1000000.0
+      },
+      {
+        "year": 10,
+        "cognitive_integrity_index": 99.8,
+        "visceral_health_index": 99.9,
+        "joint_skeletal_health_index": 98.5,
+        "immunological_safety_index": 99.5,
+        "annual_qaly_yield": 0.994,
+        "cumulative_cost_usd": 1025000.0
+      },
+      {
+        "year": 11,
+        "cognitive_integrity_index": 99.8,
+        "visceral_health_index": 99.9,
+        "joint_skeletal_health_index": 98.3,
+        "immunological_safety_index": 99.5,
+        "annual_qaly_yield": 0.994,
+        "cumulative_cost_usd": 1050000.0
+      },
+      {
+        "year": 12,
+        "cognitive_integrity_index": 99.8,
+        "visceral_health_index": 99.9,
+        "joint_skeletal_health_index": 98.2,
+        "immunological_safety_index": 99.4,
+        "annual_qaly_yield": 0.993,
+        "cumulative_cost_usd": 1075000.0
+      },
+      {
+        "year": 13,
+        "cognitive_integrity_index": 99.7,
+        "visceral_health_index": 99.9,
+        "joint_skeletal_health_index": 98.0,
+        "immunological_safety_index": 99.4,
+        "annual_qaly_yield": 0.993,
+        "cumulative_cost_usd": 1100000.0
+      },
+      {
+        "year": 14,
+        "cognitive_integrity_index": 99.7,
+        "visceral_health_index": 99.9,
+        "joint_skeletal_health_index": 97.9,
+        "immunological_safety_index": 99.3,
+        "annual_qaly_yield": 0.992,
+        "cumulative_cost_usd": 1125000.0
+      },
+      {
+        "year": 15,
+        "cognitive_integrity_index": 99.7,
+        "visceral_health_index": 99.8,
+        "joint_skeletal_health_index": 97.7,
+        "immunological_safety_index": 99.3,
+        "annual_qaly_yield": 0.992,
+        "cumulative_cost_usd": 1150000.0
+      },
+      {
+        "year": 16,
+        "cognitive_integrity_index": 99.7,
+        "visceral_health_index": 99.8,
+        "joint_skeletal_health_index": 97.6,
+        "immunological_safety_index": 99.2,
+        "annual_qaly_yield": 0.991,
+        "cumulative_cost_usd": 1175000.0
+      },
+      {
+        "year": 17,
+        "cognitive_integrity_index": 99.7,
+        "visceral_health_index": 99.8,
+        "joint_skeletal_health_index": 97.4,
+        "immunological_safety_index": 99.2,
+        "annual_qaly_yield": 0.99,
+        "cumulative_cost_usd": 1200000.0
+      },
+      {
+        "year": 18,
+        "cognitive_integrity_index": 99.6,
+        "visceral_health_index": 99.8,
+        "joint_skeletal_health_index": 97.3,
+        "immunological_safety_index": 99.1,
+        "annual_qaly_yield": 0.99,
+        "cumulative_cost_usd": 1225000.0
+      },
+      {
+        "year": 19,
+        "cognitive_integrity_index": 99.6,
+        "visceral_health_index": 99.8,
+        "joint_skeletal_health_index": 97.1,
+        "immunological_safety_index": 99.1,
+        "annual_qaly_yield": 0.989,
+        "cumulative_cost_usd": 1250000.0
+      },
+      {
+        "year": 20,
+        "cognitive_integrity_index": 99.6,
+        "visceral_health_index": 99.8,
+        "joint_skeletal_health_index": 97.0,
+        "immunological_safety_index": 99.0,
+        "annual_qaly_yield": 0.989,
+        "cumulative_cost_usd": 1275000.0
+      },
+      {
+        "year": 21,
+        "cognitive_integrity_index": 99.6,
+        "visceral_health_index": 99.8,
+        "joint_skeletal_health_index": 96.8,
+        "immunological_safety_index": 99.0,
+        "annual_qaly_yield": 0.988,
+        "cumulative_cost_usd": 1300000.0
+      },
+      {
+        "year": 22,
+        "cognitive_integrity_index": 99.6,
+        "visceral_health_index": 99.8,
+        "joint_skeletal_health_index": 96.7,
+        "immunological_safety_index": 98.9,
+        "annual_qaly_yield": 0.988,
+        "cumulative_cost_usd": 1325000.0
+      },
+      {
+        "year": 23,
+        "cognitive_integrity_index": 99.5,
+        "visceral_health_index": 99.8,
+        "joint_skeletal_health_index": 96.5,
+        "immunological_safety_index": 98.9,
+        "annual_qaly_yield": 0.987,
+        "cumulative_cost_usd": 1350000.0
+      },
+      {
+        "year": 24,
+        "cognitive_integrity_index": 99.5,
+        "visceral_health_index": 99.8,
+        "joint_skeletal_health_index": 96.4,
+        "immunological_safety_index": 98.8,
+        "annual_qaly_yield": 0.986,
+        "cumulative_cost_usd": 1375000.0
+      },
+      {
+        "year": 25,
+        "cognitive_integrity_index": 99.5,
+        "visceral_health_index": 99.7,
+        "joint_skeletal_health_index": 96.2,
+        "immunological_safety_index": 98.8,
+        "annual_qaly_yield": 0.986,
+        "cumulative_cost_usd": 1400000.0
+      },
+      {
+        "year": 26,
+        "cognitive_integrity_index": 99.5,
+        "visceral_health_index": 99.7,
+        "joint_skeletal_health_index": 96.1,
+        "immunological_safety_index": 98.7,
+        "annual_qaly_yield": 0.985,
+        "cumulative_cost_usd": 1425000.0
+      },
+      {
+        "year": 27,
+        "cognitive_integrity_index": 99.5,
+        "visceral_health_index": 99.7,
+        "joint_skeletal_health_index": 95.9,
+        "immunological_safety_index": 98.7,
+        "annual_qaly_yield": 0.985,
+        "cumulative_cost_usd": 1450000.0
+      },
+      {
+        "year": 28,
+        "cognitive_integrity_index": 99.4,
+        "visceral_health_index": 99.7,
+        "joint_skeletal_health_index": 95.8,
+        "immunological_safety_index": 98.6,
+        "annual_qaly_yield": 0.984,
+        "cumulative_cost_usd": 1475000.0
+      },
+      {
+        "year": 29,
+        "cognitive_integrity_index": 99.4,
+        "visceral_health_index": 99.7,
+        "joint_skeletal_health_index": 95.6,
+        "immunological_safety_index": 98.6,
+        "annual_qaly_yield": 0.984,
+        "cumulative_cost_usd": 1500000.0
+      },
+      {
+        "year": 30,
+        "cognitive_integrity_index": 99.4,
+        "visceral_health_index": 99.7,
+        "joint_skeletal_health_index": 95.5,
+        "immunological_safety_index": 98.5,
+        "annual_qaly_yield": 0.983,
+        "cumulative_cost_usd": 1525000.0
+      },
+      {
+        "year": 31,
+        "cognitive_integrity_index": 99.4,
+        "visceral_health_index": 99.7,
+        "joint_skeletal_health_index": 95.3,
+        "immunological_safety_index": 98.5,
+        "annual_qaly_yield": 0.982,
+        "cumulative_cost_usd": 1550000.0
+      },
+      {
+        "year": 32,
+        "cognitive_integrity_index": 99.4,
+        "visceral_health_index": 99.7,
+        "joint_skeletal_health_index": 95.2,
+        "immunological_safety_index": 98.4,
+        "annual_qaly_yield": 0.982,
+        "cumulative_cost_usd": 1575000.0
+      },
+      {
+        "year": 33,
+        "cognitive_integrity_index": 99.3,
+        "visceral_health_index": 99.7,
+        "joint_skeletal_health_index": 95.0,
+        "immunological_safety_index": 98.4,
+        "annual_qaly_yield": 0.981,
+        "cumulative_cost_usd": 1600000.0
+      },
+      {
+        "year": 34,
+        "cognitive_integrity_index": 99.3,
+        "visceral_health_index": 99.7,
+        "joint_skeletal_health_index": 94.9,
+        "immunological_safety_index": 98.3,
+        "annual_qaly_yield": 0.981,
+        "cumulative_cost_usd": 1625000.0
+      },
+      {
+        "year": 35,
+        "cognitive_integrity_index": 99.3,
+        "visceral_health_index": 99.6,
+        "joint_skeletal_health_index": 94.7,
+        "immunological_safety_index": 98.3,
+        "annual_qaly_yield": 0.98,
+        "cumulative_cost_usd": 1650000.0
+      },
+      {
+        "year": 36,
+        "cognitive_integrity_index": 99.3,
+        "visceral_health_index": 99.6,
+        "joint_skeletal_health_index": 94.6,
+        "immunological_safety_index": 98.2,
+        "annual_qaly_yield": 0.98,
+        "cumulative_cost_usd": 1675000.0
+      },
+      {
+        "year": 37,
+        "cognitive_integrity_index": 99.3,
+        "visceral_health_index": 99.6,
+        "joint_skeletal_health_index": 94.4,
+        "immunological_safety_index": 98.2,
+        "annual_qaly_yield": 0.979,
+        "cumulative_cost_usd": 1700000.0
+      },
+      {
+        "year": 38,
+        "cognitive_integrity_index": 99.2,
+        "visceral_health_index": 99.6,
+        "joint_skeletal_health_index": 94.3,
+        "immunological_safety_index": 98.1,
+        "annual_qaly_yield": 0.979,
+        "cumulative_cost_usd": 1725000.0
+      },
+      {
+        "year": 39,
+        "cognitive_integrity_index": 99.2,
+        "visceral_health_index": 99.6,
+        "joint_skeletal_health_index": 94.1,
+        "immunological_safety_index": 98.1,
+        "annual_qaly_yield": 0.978,
+        "cumulative_cost_usd": 1750000.0
+      },
+      {
+        "year": 40,
+        "cognitive_integrity_index": 99.2,
+        "visceral_health_index": 99.6,
+        "joint_skeletal_health_index": 94.0,
+        "immunological_safety_index": 98.0,
+        "annual_qaly_yield": 0.977,
+        "cumulative_cost_usd": 1775000.0
+      }
+    ]
+  }
+}

@@ -47,6 +47,11 @@ The core workspace is structured into three parallel, interconnected simulators 
 *   **Description:** Models the transcription, translation, endoplasmic reticulum (ER) folding, and lysosomal trafficking of a compound heterozygous MPS-I patient (maternal null allele and paternal uncharacterized missense "Sielaff Allele").
 *   **Clinical Interventions:** Models baseline compound heterozygous allelic dosage (recreating Filip's exact 1.5% residual activity baseline) and simulates Pharmacological Chaperone Rescue, proving how small-molecule chaperones can stabilize the paternal folded structure and boost systemic enzyme activity by over 14-fold (up to 21.2% of normal).
 
+### 🎯 Macro-Strategic Healthcare Landscape Simulator (`mps_strategic_landscape_simulator.py`)
+*   **Scale:** Macro-scale healthcare economics, multi-decade clinical trial forecasting, and strategic policymaking.
+*   **Description:** Models three divergent clinical strategy paradigms (Sanofi's Lifelong ERT, Clinical HSCT/AAV, and Our Proposed Multi-Scale Precision Paradigm) over a 40-year patient life horizon.
+*   **Key Statistical Output:** Computes lifetime Quality-Adjusted Life Years (QALYs), cumulative out-of-pocket and insurance healthcare costs, final tissue health indices, and cost-effectiveness ratios ($/QALY) to expose systemic blind spots in current commercial and clinical models.
+
 ---
 
 ## 📈 Key Clinical Insights Discovered
@@ -88,6 +93,9 @@ python3 mps_attenuated_somatic_simulator.py
 
 # Run compound heterozygous allelic dosage simulation:
 python3 mps_compound_heterozygous_simulator.py
+
+# Run macro-strategic healthcare landscape simulation:
+python3 mps_strategic_landscape_simulator.py
 
 # Run Genzyme/Sanofi public clinical data harvester:
 python3 mps_sanofi_harvester.py
