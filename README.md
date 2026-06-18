@@ -37,6 +37,11 @@ The core workspace is structured into three parallel, interconnected simulators 
 *   **Description:** Models 18 years of pediatric liver growth and hepatocyte mitotic division cycles from infancy (age 0.1) to adulthood (age 18.0) to evaluate the biological limits of non-integrating gene therapy.
 *   **Clinical Interventions:** Compares non-replicating episomal AAV vectors (which dilute exponentially as host cells divide, causing late GAG re-accumulation during growth spurts) against CRISPR-mediated integration into the chromosomal Albumin safe-harbor locus (which replicates perfectly, providing stable, lifelong cure).
 
+### 5. 👁️ Attenuated Somatic Clearance Simulator (`mps_attenuated_somatic_simulator.py`)
+*   **Scale:** Multi-tissue organ kinetics and avascular passive transport.
+*   **Description:** Models 20 years of GAG clearance and slow accumulation in attenuated MPS-I (Scheie Syndrome, MPS IS), characterized by a small fraction of residual IDUA activity (1.5% of normal).
+*   **Clinical Interventions:** Resolves the "Brain Protection Paradox," proving why 1.5% residual activity is fully sufficient to keep brain GAG at 100% normal/safe levels, while avascular corneas and heart valves suffer from chronic GAG accumulation due to perfusion barriers, and models the complete somatic rescue of low-dose prophylactic ERT (25% dose).
+
 ---
 
 ## 📈 Key Clinical Insights Discovered
@@ -72,6 +77,9 @@ python3 mps_cartilage_diffusion_simulator.py
 
 # Run pediatric liver mitotic dilution simulation:
 python3 mps_liver_gene_editing_simulator.py
+
+# Run 20-year attenuated somatic transport simulation:
+python3 mps_attenuated_somatic_simulator.py
 
 # Run public medical NCBI data harvester (fetches clinical papers live from PubMed Central):
 python3 mps_data_harvester.py
