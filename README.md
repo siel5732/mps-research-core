@@ -42,6 +42,11 @@ The core workspace is structured into three parallel, interconnected simulators 
 *   **Description:** Models 20 years of GAG clearance and slow accumulation in attenuated MPS-I (Scheie Syndrome, MPS IS), characterized by a small fraction of residual IDUA activity (1.5% of normal).
 *   **Clinical Interventions:** Resolves the "Brain Protection Paradox," proving why 1.5% residual activity is fully sufficient to keep brain GAG at 100% normal/safe levels, while avascular corneas and heart valves suffer from chronic GAG accumulation due to perfusion barriers, and models the complete somatic rescue of low-dose prophylactic ERT (25% dose).
 
+### 6. 🧬 Compound Heterozygous Allelic Dosage Simulator (`mps_compound_heterozygous_simulator.py`)
+*   **Scale:** Sub-cellular protein folding and thermodynamic molecular kinetics.
+*   **Description:** Models the transcription, translation, endoplasmic reticulum (ER) folding, and lysosomal trafficking of a compound heterozygous MPS-I patient (maternal null allele and paternal uncharacterized missense "Sielaff Allele").
+*   **Clinical Interventions:** Models baseline compound heterozygous allelic dosage (recreating Filip's exact 1.5% residual activity baseline) and simulates Pharmacological Chaperone Rescue, proving how small-molecule chaperones can stabilize the paternal folded structure and boost systemic enzyme activity by over 14-fold (up to 21.2% of normal).
+
 ---
 
 ## 📈 Key Clinical Insights Discovered
@@ -80,6 +85,9 @@ python3 mps_liver_gene_editing_simulator.py
 
 # Run 20-year attenuated somatic transport simulation:
 python3 mps_attenuated_somatic_simulator.py
+
+# Run compound heterozygous allelic dosage simulation:
+python3 mps_compound_heterozygous_simulator.py
 
 # Run public medical NCBI data harvester (fetches clinical papers live from PubMed Central):
 python3 mps_data_harvester.py

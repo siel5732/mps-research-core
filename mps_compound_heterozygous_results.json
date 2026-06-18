@@ -1,0 +1,47 @@
+{
+  "baseline": {
+    "maternal": {
+      "translation_yield": 0.0,
+      "fraction_folded": 0.0,
+      "lysosomal_yield": 0.0
+    },
+    "paternal": {
+      "translation_yield": 1.0,
+      "fraction_folded": 0.033341534585739976,
+      "lysosomal_yield": 0.03000738112716598
+    },
+    "systemic_residual_activity_pct": 1.5
+  },
+  "titration": [
+    {
+      "chaperone_dose_uM": 0.1,
+      "systemic_residual_activity_pct": 1.86,
+      "paternal_folding_efficiency_pct": 4.13
+    },
+    {
+      "chaperone_dose_uM": 0.5,
+      "systemic_residual_activity_pct": 3.241,
+      "paternal_folding_efficiency_pct": 7.2
+    },
+    {
+      "chaperone_dose_uM": 1.0,
+      "systemic_residual_activity_pct": 4.847,
+      "paternal_folding_efficiency_pct": 10.77
+    },
+    {
+      "chaperone_dose_uM": 2.0,
+      "systemic_residual_activity_pct": 7.716,
+      "paternal_folding_efficiency_pct": 17.15
+    },
+    {
+      "chaperone_dose_uM": 5.0,
+      "systemic_residual_activity_pct": 14.297,
+      "paternal_folding_efficiency_pct": 31.77
+    },
+    {
+      "chaperone_dose_uM": 10.0,
+      "systemic_residual_activity_pct": 21.276,
+      "paternal_folding_efficiency_pct": 47.28
+    }
+  ]
+}
