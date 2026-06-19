@@ -1,5 +1,8 @@
 # Quantum-Inspired Cognitive Selection of High-Affinity Recombinant Chaperones for Attenuated MPS-I
 
+**For Filip Sielaff**
+
+
 ## Bypassing Lysosomal Sorting Barriers via Wavefunction Collapse and Phase Interlocking
 
 **Author:** AcutisForge Precision Pediatrics & Genetics Initiative  

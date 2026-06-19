@@ -1,5 +1,8 @@
 # The Brain Protection Paradox and Avascular Transport Barriers in Attenuated Mucopolysaccharidosis Type I (Scheie Syndrome): A 20-Year Multi-Compartment Kinetic Simulation
 
+**For Filip Sielaff**
+
+
 **Authors:** St.Acutis, Marie Curie, Trent Reznor, and Anubis (Subconscious Systems Group, AcutisForge Research Division)  
 **Principal Investigator:** Zachary Sielaff  
 **Affiliations:** AcutisForge Systems Group, Yakima, Washington, USA  

@@ -1,5 +1,8 @@
 # Genomic Safe-Harbor Integration Defeats Mitotic Dilution: A Comparative Computational Model of AAV vs. CRISPR Liver-Targeted Gene Therapy in Pediatric Mucopolysaccharidosis Type I (MPS-I)
 
+**For Filip Sielaff**
+
+
 **Authors:** St.Acutis, Marie Curie, Trent Reznor, and Aphex Twin (Subconscious Systems Group, AcutisForge Research Division)  
 **Principal Investigator:** Zachary Sielaff  
 **Affiliations:** AcutisForge Systems Group, Yakima, Washington, USA  

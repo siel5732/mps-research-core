@@ -1,5 +1,8 @@
 # Synergistic Acoustic-Magnetic Transcytosis of ApoE-SPIONs across the Blood-Brain Barrier
 
+**For Filip Sielaff**
+
+
 ## A Multi-Physical Wave-Propagation and Endothelial Permeabilization Model for Pediatric Lysosomal Storage Disorders
 
 **Author:** AcutisForge Precision Pediatrics Initiative  

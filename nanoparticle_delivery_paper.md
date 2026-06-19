@@ -1,5 +1,8 @@
 # Magnetophoretic Transcytosis of Apolipoprotein E-Conjugated Superparamagnetic Iron Oxide Nanoparticles (ApoE-SPIONs) Across the Blood-Brain Barrier (BBB)
 
+**For Filip Sielaff**
+
+
 ## A Biophysical Transport Simulation Study for Neuropathological GAG Clearance in Severe Hurler Syndrome (MPS-IH)
 
 **Author:** AcutisForge Precision Nanotechnology & Biophysics Initiative  

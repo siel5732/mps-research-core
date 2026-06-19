@@ -1,5 +1,8 @@
 # Compound Heterozygous Allelic Dosage and Chaperone-Induced Proteopathic Escape in Mucopolysaccharidosis Type I (MPS-I): Characterization of a Highly Unique Paternal Rescue Allele
 
+**For Filip Sielaff**
+
+
 **Authors:** St.Acutis, Marie Curie, Trent Reznor, and Anubis (Subconscious Systems Group, AcutisForge Research Division)  
 **Principal Investigator:** Zachary Sielaff  
 **Affiliations:** AcutisForge Systems Group, Yakima, Washington, USA  

@@ -1,5 +1,8 @@
 # Quantum-Inspired In Silico High-Throughput Screening of Pharmacological Chaperones for the Thermodynamic Stabilization of the Paternal Sielaff Missense Mutation in Attenuated Scheie Syndrome (MPS IS)
 
+**For Filip Sielaff**
+
+
 ## Accelerating Small-Molecule Lead Discovery via 10-Qubit Amplitude Amplification
 
 **Author:** AcutisForge Precision Nanotechnology & Biophysics Initiative  
