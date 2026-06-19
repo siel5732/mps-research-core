@@ -1,0 +1,224 @@
+{
+  "Naive CRISPR-Cas12a (NHEJ Dominant)": [
+    {
+      "hour": 0.0,
+      "double_strand_breaks_pct": 0.25,
+      "nhej_indels_pct": 0.0,
+      "hdr_precise_integration_pct": 0.0
+    },
+    {
+      "hour": 6.0,
+      "double_strand_breaks_pct": 17.47,
+      "nhej_indels_pct": 54.3,
+      "hdr_precise_integration_pct": 0.97
+    },
+    {
+      "hour": 12.0,
+      "double_strand_breaks_pct": 5.48,
+      "nhej_indels_pct": 82.61,
+      "hdr_precise_integration_pct": 1.47
+    },
+    {
+      "hour": 18.0,
+      "double_strand_breaks_pct": 1.81,
+      "nhej_indels_pct": 91.44,
+      "hdr_precise_integration_pct": 1.63
+    },
+    {
+      "hour": 24.0,
+      "double_strand_breaks_pct": 0.71,
+      "nhej_indels_pct": 94.58,
+      "hdr_precise_integration_pct": 1.68
+    },
+    {
+      "hour": 30.0,
+      "double_strand_breaks_pct": 0.33,
+      "nhej_indels_pct": 95.91,
+      "hdr_precise_integration_pct": 1.71
+    },
+    {
+      "hour": 36.0,
+      "double_strand_breaks_pct": 0.18,
+      "nhej_indels_pct": 96.57,
+      "hdr_precise_integration_pct": 1.72
+    },
+    {
+      "hour": 42.0,
+      "double_strand_breaks_pct": 0.1,
+      "nhej_indels_pct": 96.94,
+      "hdr_precise_integration_pct": 1.72
+    },
+    {
+      "hour": 48.0,
+      "double_strand_breaks_pct": 0.06,
+      "nhej_indels_pct": 97.15,
+      "hdr_precise_integration_pct": 1.73
+    },
+    {
+      "hour": 54.0,
+      "double_strand_breaks_pct": 0.04,
+      "nhej_indels_pct": 97.29,
+      "hdr_precise_integration_pct": 1.73
+    },
+    {
+      "hour": 60.0,
+      "double_strand_breaks_pct": 0.03,
+      "nhej_indels_pct": 97.38,
+      "hdr_precise_integration_pct": 1.73
+    },
+    {
+      "hour": 66.0,
+      "double_strand_breaks_pct": 0.02,
+      "nhej_indels_pct": 97.44,
+      "hdr_precise_integration_pct": 1.73
+    }
+  ],
+  "NHEJ-Inhibited CRISPR (SCR7-Enhanced)": [
+    {
+      "hour": 0.0,
+      "double_strand_breaks_pct": 0.25,
+      "nhej_indels_pct": 0.0,
+      "hdr_precise_integration_pct": 0.0
+    },
+    {
+      "hour": 6.0,
+      "double_strand_breaks_pct": 55.6,
+      "nhej_indels_pct": 10.56,
+      "hdr_precise_integration_pct": 6.57
+    },
+    {
+      "hour": 12.0,
+      "double_strand_breaks_pct": 48.9,
+      "nhej_indels_pct": 25.07,
+      "hdr_precise_integration_pct": 15.6
+    },
+    {
+      "hour": 18.0,
+      "double_strand_breaks_pct": 35.7,
+      "nhej_indels_pct": 36.48,
+      "hdr_precise_integration_pct": 22.7
+    },
+    {
+      "hour": 24.0,
+      "double_strand_breaks_pct": 24.68,
+      "nhej_indels_pct": 44.56,
+      "hdr_precise_integration_pct": 27.73
+    },
+    {
+      "hour": 30.0,
+      "double_strand_breaks_pct": 16.7,
+      "nhej_indels_pct": 50.09,
+      "hdr_precise_integration_pct": 31.17
+    },
+    {
+      "hour": 36.0,
+      "double_strand_breaks_pct": 11.18,
+      "nhej_indels_pct": 53.81,
+      "hdr_precise_integration_pct": 33.48
+    },
+    {
+      "hour": 42.0,
+      "double_strand_breaks_pct": 7.45,
+      "nhej_indels_pct": 56.29,
+      "hdr_precise_integration_pct": 35.02
+    },
+    {
+      "hour": 48.0,
+      "double_strand_breaks_pct": 4.95,
+      "nhej_indels_pct": 57.94,
+      "hdr_precise_integration_pct": 36.05
+    },
+    {
+      "hour": 54.0,
+      "double_strand_breaks_pct": 3.29,
+      "nhej_indels_pct": 59.04,
+      "hdr_precise_integration_pct": 36.73
+    },
+    {
+      "hour": 60.0,
+      "double_strand_breaks_pct": 2.18,
+      "nhej_indels_pct": 59.77,
+      "hdr_precise_integration_pct": 37.19
+    },
+    {
+      "hour": 66.0,
+      "double_strand_breaks_pct": 1.45,
+      "nhej_indels_pct": 60.25,
+      "hdr_precise_integration_pct": 37.49
+    }
+  ],
+  "AcutisForge HDR-Optimized (SCR7 + Cell-Cycle Arrest)": [
+    {
+      "hour": 0.0,
+      "double_strand_breaks_pct": 0.25,
+      "nhej_indels_pct": 0.0,
+      "hdr_precise_integration_pct": 0.0
+    },
+    {
+      "hour": 6.0,
+      "double_strand_breaks_pct": 13.91,
+      "nhej_indels_pct": 4.75,
+      "hdr_precise_integration_pct": 54.07
+    },
+    {
+      "hour": 12.0,
+      "double_strand_breaks_pct": 4.02,
+      "nhej_indels_pct": 6.91,
+      "hdr_precise_integration_pct": 78.63
+    },
+    {
+      "hour": 18.0,
+      "double_strand_breaks_pct": 1.33,
+      "nhej_indels_pct": 7.56,
+      "hdr_precise_integration_pct": 85.99
+    },
+    {
+      "hour": 24.0,
+      "double_strand_breaks_pct": 0.54,
+      "nhej_indels_pct": 7.79,
+      "hdr_precise_integration_pct": 88.64
+    },
+    {
+      "hour": 30.0,
+      "double_strand_breaks_pct": 0.26,
+      "nhej_indels_pct": 7.89,
+      "hdr_precise_integration_pct": 89.8
+    },
+    {
+      "hour": 36.0,
+      "double_strand_breaks_pct": 0.14,
+      "nhej_indels_pct": 7.94,
+      "hdr_precise_integration_pct": 90.39
+    },
+    {
+      "hour": 42.0,
+      "double_strand_breaks_pct": 0.08,
+      "nhej_indels_pct": 7.97,
+      "hdr_precise_integration_pct": 90.71
+    },
+    {
+      "hour": 48.0,
+      "double_strand_breaks_pct": 0.05,
+      "nhej_indels_pct": 7.99,
+      "hdr_precise_integration_pct": 90.9
+    },
+    {
+      "hour": 54.0,
+      "double_strand_breaks_pct": 0.03,
+      "nhej_indels_pct": 8.0,
+      "hdr_precise_integration_pct": 91.03
+    },
+    {
+      "hour": 60.0,
+      "double_strand_breaks_pct": 0.02,
+      "nhej_indels_pct": 8.01,
+      "hdr_precise_integration_pct": 91.11
+    },
+    {
+      "hour": 66.0,
+      "double_strand_breaks_pct": 0.01,
+      "nhej_indels_pct": 8.01,
+      "hdr_precise_integration_pct": 91.17
+    }
+  ]
+}
