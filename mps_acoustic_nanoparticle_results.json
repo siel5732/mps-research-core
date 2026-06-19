@@ -1,0 +1,152 @@
+{
+  "Passive ApoE-SPION Diffusion": [
+    {
+      "week": 1,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.0,
+      "active_pore_radius_nm": 1.2,
+      "steric_hindrance_score": 0.0,
+      "brain_gag_mg": 1000.8
+    },
+    {
+      "week": 2,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.0,
+      "active_pore_radius_nm": 1.2,
+      "steric_hindrance_score": 0.0,
+      "brain_gag_mg": 1105.8
+    },
+    {
+      "week": 3,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.0,
+      "active_pore_radius_nm": 1.2,
+      "steric_hindrance_score": 0.0,
+      "brain_gag_mg": 1210.8
+    },
+    {
+      "week": 4,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.0,
+      "active_pore_radius_nm": 1.2,
+      "steric_hindrance_score": 0.0,
+      "brain_gag_mg": 1315.8
+    },
+    {
+      "week": 5,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.0,
+      "active_pore_radius_nm": 1.2,
+      "steric_hindrance_score": 0.0,
+      "brain_gag_mg": 1420.8
+    },
+    {
+      "week": 6,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.0,
+      "active_pore_radius_nm": 1.2,
+      "steric_hindrance_score": 0.0,
+      "brain_gag_mg": 1525.8
+    }
+  ],
+  "Magnetic-Only Gradient (2.5 T/m)": [
+    {
+      "week": 1,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.0,
+      "active_pore_radius_nm": 1.2,
+      "steric_hindrance_score": 0.0,
+      "brain_gag_mg": 1000.8
+    },
+    {
+      "week": 2,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.0,
+      "active_pore_radius_nm": 1.2,
+      "steric_hindrance_score": 0.0,
+      "brain_gag_mg": 1105.8
+    },
+    {
+      "week": 3,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.0,
+      "active_pore_radius_nm": 1.2,
+      "steric_hindrance_score": 0.0,
+      "brain_gag_mg": 1210.8
+    },
+    {
+      "week": 4,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.0,
+      "active_pore_radius_nm": 1.2,
+      "steric_hindrance_score": 0.0,
+      "brain_gag_mg": 1315.8
+    },
+    {
+      "week": 5,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.0,
+      "active_pore_radius_nm": 1.2,
+      "steric_hindrance_score": 0.0,
+      "brain_gag_mg": 1420.8
+    },
+    {
+      "week": 6,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.0,
+      "active_pore_radius_nm": 1.2,
+      "steric_hindrance_score": 0.0,
+      "brain_gag_mg": 1525.8
+    }
+  ],
+  "Acoustic FUS (1.0 MHz) + Magnetic Synergy": [
+    {
+      "week": 1,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.002289,
+      "active_pore_radius_nm": 35.0,
+      "steric_hindrance_score": 0.081329,
+      "brain_gag_mg": 1000.8
+    },
+    {
+      "week": 2,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.247004,
+      "active_pore_radius_nm": 35.0,
+      "steric_hindrance_score": 0.081329,
+      "brain_gag_mg": 795.3
+    },
+    {
+      "week": 3,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.386631,
+      "active_pore_radius_nm": 35.0,
+      "steric_hindrance_score": 0.081329,
+      "brain_gag_mg": 561.0
+    },
+    {
+      "week": 4,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.466298,
+      "active_pore_radius_nm": 35.0,
+      "steric_hindrance_score": 0.081329,
+      "brain_gag_mg": 324.0
+    },
+    {
+      "week": 5,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.511753,
+      "active_pore_radius_nm": 35.0,
+      "steric_hindrance_score": 0.081329,
+      "brain_gag_mg": 100.0
+    },
+    {
+      "week": 6,
+      "blood_concentration_mg_L": 2.5,
+      "brain_concentration_mg_L": 0.537689,
+      "active_pore_radius_nm": 35.0,
+      "steric_hindrance_score": 0.081329,
+      "brain_gag_mg": 100.0
+    }
+  ]
+}
