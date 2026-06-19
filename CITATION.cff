@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Sielaff"
+    given-names: "Zachary"
+    affiliation: "AcutisForge Precision Pediatrics & Genetics Initiative"
+  - family-names: "St.Acutis"
+    given-names: "Acutis"
+    affiliation: "AcutisForge Systems Group"
+title: "MPS-Research-Core: Open-Source Mathematical Biology and Biophysical Models for Mucopolysaccharidosis Type I (MPS-I)"
+version: 1.0.0
+date-released: 2026-06-19
+url: "https://github.com/siel5732/mps-research-core"
+keywords:
+  - "mucopolysaccharidosis-type-i"
+  - "mps-i"
+  - "pharmacological-chaperones"
+  - "focused-ultrasound"
+  - "blood-brain-barrier"
+  - "computational-biology"
+  - "biophysics"
+  - "homology-directed-repair"
+  - "precision-pediatrics"
