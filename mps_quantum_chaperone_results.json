@@ -1,0 +1,12 @@
+{
+  "winner": {
+    "chaperone_id": 842,
+    "hydrophobic_index": 4.25,
+    "h_bond_acceptors": 6,
+    "molecular_weight_da": 384.2,
+    "binding_energy_kcal_mol": -8.75,
+    "folding_stabilization_kcal_mol": -4.12
+  },
+  "iterations": 25,
+  "confidence": 0.9994612447443673
+}
