@@ -1,0 +1,174 @@
+{
+  "Neonatal ERT (Untolerized, Maternal Masking)": [
+    {
+      "week": 1,
+      "maternal_ada_titer_au_ml": 10.0,
+      "fetal_ada_titer_au_ml": 0.01,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 2,
+      "maternal_ada_titer_au_ml": 10.0,
+      "fetal_ada_titer_au_ml": 8.19,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 3,
+      "maternal_ada_titer_au_ml": 10.0,
+      "fetal_ada_titer_au_ml": 9.11,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 4,
+      "maternal_ada_titer_au_ml": 10.0,
+      "fetal_ada_titer_au_ml": 9.21,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 5,
+      "maternal_ada_titer_au_ml": 10.0,
+      "fetal_ada_titer_au_ml": 9.23,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 6,
+      "maternal_ada_titer_au_ml": 10.0,
+      "fetal_ada_titer_au_ml": 9.23,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 7,
+      "maternal_ada_titer_au_ml": 10.0,
+      "fetal_ada_titer_au_ml": 9.23,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 8,
+      "maternal_ada_titer_au_ml": 10.0,
+      "fetal_ada_titer_au_ml": 9.23,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 9,
+      "maternal_ada_titer_au_ml": 10.0,
+      "fetal_ada_titer_au_ml": 9.23,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 10,
+      "maternal_ada_titer_au_ml": 10.0,
+      "fetal_ada_titer_au_ml": 9.23,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 11,
+      "maternal_ada_titer_au_ml": 10.0,
+      "fetal_ada_titer_au_ml": 9.23,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 12,
+      "maternal_ada_titer_au_ml": 10.0,
+      "fetal_ada_titer_au_ml": 9.23,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    }
+  ],
+  "Prenatal Maternal ERT (In Utero Tolerized)": [
+    {
+      "week": 1,
+      "maternal_ada_titer_au_ml": 10.0,
+      "fetal_ada_titer_au_ml": 0.01,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 2,
+      "maternal_ada_titer_au_ml": 4.32,
+      "fetal_ada_titer_au_ml": 4.79,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 3,
+      "maternal_ada_titer_au_ml": 1.86,
+      "fetal_ada_titer_au_ml": 2.6,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 4,
+      "maternal_ada_titer_au_ml": 0.8,
+      "fetal_ada_titer_au_ml": 1.18,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 5,
+      "maternal_ada_titer_au_ml": 0.35,
+      "fetal_ada_titer_au_ml": 0.52,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 6,
+      "maternal_ada_titer_au_ml": 0.15,
+      "fetal_ada_titer_au_ml": 0.22,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 7,
+      "maternal_ada_titer_au_ml": 0.1,
+      "fetal_ada_titer_au_ml": 0.11,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 8,
+      "maternal_ada_titer_au_ml": 0.1,
+      "fetal_ada_titer_au_ml": 0.09,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 9,
+      "maternal_ada_titer_au_ml": 0.1,
+      "fetal_ada_titer_au_ml": 0.09,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 10,
+      "maternal_ada_titer_au_ml": 0.1,
+      "fetal_ada_titer_au_ml": 0.09,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 11,
+      "maternal_ada_titer_au_ml": 0.1,
+      "fetal_ada_titer_au_ml": 0.09,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    },
+    {
+      "week": 12,
+      "maternal_ada_titer_au_ml": 0.1,
+      "fetal_ada_titer_au_ml": 0.09,
+      "free_active_laronidase_mg_l": 0.0075,
+      "immune_complexes_mg_l": 0.0
+    }
+  ]
+}
