@@ -1,0 +1,1100 @@
+{
+  "Untolerized ERT (Severe CRM-Negative)": [
+    {
+      "week": 1,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 0.0
+    },
+    {
+      "week": 2,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.1955,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 4.63
+    },
+    {
+      "week": 3,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2494,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 9.08
+    },
+    {
+      "week": 4,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2646,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 13.48
+    },
+    {
+      "week": 5,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2689,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 17.87
+    },
+    {
+      "week": 6,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2702,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 22.26
+    },
+    {
+      "week": 7,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2705,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 26.64
+    },
+    {
+      "week": 8,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 31.03
+    },
+    {
+      "week": 9,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 35.41
+    },
+    {
+      "week": 10,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 39.79
+    },
+    {
+      "week": 11,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 44.18
+    },
+    {
+      "week": 12,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 48.56
+    },
+    {
+      "week": 13,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 52.94
+    },
+    {
+      "week": 14,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 57.33
+    },
+    {
+      "week": 15,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 61.71
+    },
+    {
+      "week": 16,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 66.09
+    },
+    {
+      "week": 17,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 70.48
+    },
+    {
+      "week": 18,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 74.86
+    },
+    {
+      "week": 19,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 79.24
+    },
+    {
+      "week": 20,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 83.63
+    },
+    {
+      "week": 21,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 88.01
+    },
+    {
+      "week": 22,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 92.4
+    },
+    {
+      "week": 23,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 96.78
+    },
+    {
+      "week": 24,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 101.16
+    },
+    {
+      "week": 25,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 105.55
+    },
+    {
+      "week": 26,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 109.93
+    },
+    {
+      "week": 27,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 114.31
+    },
+    {
+      "week": 28,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 118.7
+    },
+    {
+      "week": 29,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 123.08
+    },
+    {
+      "week": 30,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 127.46
+    },
+    {
+      "week": 31,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 131.85
+    },
+    {
+      "week": 32,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 136.23
+    },
+    {
+      "week": 33,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 140.61
+    },
+    {
+      "week": 34,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 145.0
+    },
+    {
+      "week": 35,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 149.38
+    },
+    {
+      "week": 36,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 153.76
+    },
+    {
+      "week": 37,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 158.15
+    },
+    {
+      "week": 38,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 162.53
+    },
+    {
+      "week": 39,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 166.92
+    },
+    {
+      "week": 40,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 171.3
+    },
+    {
+      "week": 41,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 175.68
+    },
+    {
+      "week": 42,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 180.07
+    },
+    {
+      "week": 43,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 184.45
+    },
+    {
+      "week": 44,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 188.83
+    },
+    {
+      "week": 45,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 193.22
+    },
+    {
+      "week": 46,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 197.6
+    },
+    {
+      "week": 47,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 201.98
+    },
+    {
+      "week": 48,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 206.37
+    },
+    {
+      "week": 49,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 210.75
+    },
+    {
+      "week": 50,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 215.13
+    },
+    {
+      "week": 51,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 219.52
+    },
+    {
+      "week": 52,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.2706,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 223.9
+    }
+  ],
+  "Transient Methotrexate Tolerization (Immune-Suppressed)": [
+    {
+      "week": 1,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 0.0
+    },
+    {
+      "week": 2,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.001,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 4.84
+    },
+    {
+      "week": 3,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0013,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 9.67
+    },
+    {
+      "week": 4,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0014,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 14.5
+    },
+    {
+      "week": 5,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0014,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 19.33
+    },
+    {
+      "week": 6,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0004,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 24.16
+    },
+    {
+      "week": 7,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0001,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 28.99
+    },
+    {
+      "week": 8,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 33.83
+    },
+    {
+      "week": 9,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 38.66
+    },
+    {
+      "week": 10,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 43.49
+    },
+    {
+      "week": 11,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 48.33
+    },
+    {
+      "week": 12,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 53.16
+    },
+    {
+      "week": 13,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 57.99
+    },
+    {
+      "week": 14,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 62.83
+    },
+    {
+      "week": 15,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 67.66
+    },
+    {
+      "week": 16,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 72.49
+    },
+    {
+      "week": 17,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 77.33
+    },
+    {
+      "week": 18,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 82.16
+    },
+    {
+      "week": 19,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 86.99
+    },
+    {
+      "week": 20,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 91.83
+    },
+    {
+      "week": 21,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 96.66
+    },
+    {
+      "week": 22,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 101.49
+    },
+    {
+      "week": 23,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 106.33
+    },
+    {
+      "week": 24,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 111.16
+    },
+    {
+      "week": 25,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 115.99
+    },
+    {
+      "week": 26,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 120.83
+    },
+    {
+      "week": 27,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 125.66
+    },
+    {
+      "week": 28,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 130.49
+    },
+    {
+      "week": 29,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 135.33
+    },
+    {
+      "week": 30,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 140.16
+    },
+    {
+      "week": 31,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 144.99
+    },
+    {
+      "week": 32,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 149.83
+    },
+    {
+      "week": 33,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 154.66
+    },
+    {
+      "week": 34,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 159.49
+    },
+    {
+      "week": 35,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 164.33
+    },
+    {
+      "week": 36,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 169.16
+    },
+    {
+      "week": 37,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 173.99
+    },
+    {
+      "week": 38,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 178.83
+    },
+    {
+      "week": 39,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 183.66
+    },
+    {
+      "week": 40,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 188.49
+    },
+    {
+      "week": 41,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 193.33
+    },
+    {
+      "week": 42,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 198.16
+    },
+    {
+      "week": 43,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 202.99
+    },
+    {
+      "week": 44,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 207.83
+    },
+    {
+      "week": 45,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 212.66
+    },
+    {
+      "week": 46,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 217.49
+    },
+    {
+      "week": 47,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 222.33
+    },
+    {
+      "week": 48,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 227.16
+    },
+    {
+      "week": 49,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 231.99
+    },
+    {
+      "week": 50,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 236.83
+    },
+    {
+      "week": 51,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 241.66
+    },
+    {
+      "week": 52,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 246.49
+    }
+  ],
+  "Genomic Hepatic Tolerization (CRISPR Central Tolerance)": [
+    {
+      "week": 1,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 0.0
+    },
+    {
+      "week": 2,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 4.84
+    },
+    {
+      "week": 3,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 9.67
+    },
+    {
+      "week": 4,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 14.5
+    },
+    {
+      "week": 5,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 19.34
+    },
+    {
+      "week": 6,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 24.17
+    },
+    {
+      "week": 7,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 29.0
+    },
+    {
+      "week": 8,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 33.84
+    },
+    {
+      "week": 9,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 38.67
+    },
+    {
+      "week": 10,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 43.5
+    },
+    {
+      "week": 11,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 48.34
+    },
+    {
+      "week": 12,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 53.17
+    },
+    {
+      "week": 13,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 58.0
+    },
+    {
+      "week": 14,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 62.84
+    },
+    {
+      "week": 15,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 67.67
+    },
+    {
+      "week": 16,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 72.5
+    },
+    {
+      "week": 17,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 77.34
+    },
+    {
+      "week": 18,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 82.17
+    },
+    {
+      "week": 19,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 87.0
+    },
+    {
+      "week": 20,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 91.84
+    },
+    {
+      "week": 21,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 96.67
+    },
+    {
+      "week": 22,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 101.5
+    },
+    {
+      "week": 23,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 106.34
+    },
+    {
+      "week": 24,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 111.17
+    },
+    {
+      "week": 25,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 116.0
+    },
+    {
+      "week": 26,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 120.84
+    },
+    {
+      "week": 27,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 125.67
+    },
+    {
+      "week": 28,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 130.5
+    },
+    {
+      "week": 29,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 135.34
+    },
+    {
+      "week": 30,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 140.17
+    },
+    {
+      "week": 31,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 145.0
+    },
+    {
+      "week": 32,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 149.84
+    },
+    {
+      "week": 33,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 154.67
+    },
+    {
+      "week": 34,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 159.5
+    },
+    {
+      "week": 35,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 164.34
+    },
+    {
+      "week": 36,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 169.17
+    },
+    {
+      "week": 37,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 174.0
+    },
+    {
+      "week": 38,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 178.84
+    },
+    {
+      "week": 39,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 183.67
+    },
+    {
+      "week": 40,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 188.5
+    },
+    {
+      "week": 41,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 193.34
+    },
+    {
+      "week": 42,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 198.17
+    },
+    {
+      "week": 43,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 203.0
+    },
+    {
+      "week": 44,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 207.84
+    },
+    {
+      "week": 45,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 212.67
+    },
+    {
+      "week": 46,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 217.5
+    },
+    {
+      "week": 47,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 222.34
+    },
+    {
+      "week": 48,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 227.17
+    },
+    {
+      "week": 49,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 232.0
+    },
+    {
+      "week": 50,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 236.84
+    },
+    {
+      "week": 51,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 241.67
+    },
+    {
+      "week": 52,
+      "free_enzyme_peak_mg_l": 0.0362,
+      "ada_antibody_titer": 0.0,
+      "neutralized_complex": 0.0,
+      "auc_cumulative_effective": 246.5
+    }
+  ]
+}
