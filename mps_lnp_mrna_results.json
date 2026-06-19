@@ -1,0 +1,3047 @@
+{
+    "metadata": {
+        "title": "MPS-I Liver-Targeted LNP-mRNA Transient Translation & GAG Clearance Simulation",
+        "PI": "Dr. Marie Curie",
+        "date": "2026-06-19",
+        "units": {
+            "time": "hours",
+            "mass": "mg",
+            "concentration": "mg/L",
+            "gag": "percentage of normal (healthy = 100)"
+        }
+    },
+    "parameters": {
+        "dose_mg": 5.0,
+        "dose_interval_hr": 168,
+        "endosomal_escape_efficiency": 0.12,
+        "mrna_half_life_hr": 12.2,
+        "protein_half_life_hr": 23.9,
+        "secreted_enzyme_half_life_hr": 8.1
+    },
+    "trajectory": [
+        {
+            "time_hours": 0.0,
+            "lnp_plasma_mg": 4.7,
+            "mrna_intracellular_mg": 0.027,
+            "mrna_active_mg": 0.0,
+            "protein_intracellular_mg": 0.0,
+            "protein_secreted_mg_L": 0.0,
+            "gag_systemic_percentage": 1000.0
+        },
+        {
+            "time_hours": 2.0,
+            "lnp_plasma_mg": 1.3635,
+            "mrna_intracellular_mg": 0.2031,
+            "mrna_active_mg": 0.1023,
+            "protein_intracellular_mg": 1.8319,
+            "protein_secreted_mg_L": 0.04384,
+            "gag_systemic_percentage": 999.6
+        },
+        {
+            "time_hours": 4.0,
+            "lnp_plasma_mg": 0.3956,
+            "mrna_intracellular_mg": 0.144,
+            "mrna_active_mg": 0.21,
+            "protein_intracellular_mg": 8.3531,
+            "protein_secreted_mg_L": 0.45552,
+            "gag_systemic_percentage": 997.2
+        },
+        {
+            "time_hours": 6.0,
+            "lnp_plasma_mg": 0.1148,
+            "mrna_intracellular_mg": 0.0788,
+            "mrna_active_mg": 0.2606,
+            "protein_intracellular_mg": 16.6166,
+            "protein_secreted_mg_L": 1.48027,
+            "gag_systemic_percentage": 994.6
+        },
+        {
+            "time_hours": 8.0,
+            "lnp_plasma_mg": 0.0333,
+            "mrna_intracellular_mg": 0.039,
+            "mrna_active_mg": 0.2706,
+            "protein_intracellular_mg": 23.9729,
+            "protein_secreted_mg_L": 3.04804,
+            "gag_systemic_percentage": 991.9
+        },
+        {
+            "time_hours": 10.0,
+            "lnp_plasma_mg": 0.0097,
+            "mrna_intracellular_mg": 0.0183,
+            "mrna_active_mg": 0.2598,
+            "protein_intracellular_mg": 29.3461,
+            "protein_secreted_mg_L": 4.93592,
+            "gag_systemic_percentage": 989.2
+        },
+        {
+            "time_hours": 12.0,
+            "lnp_plasma_mg": 0.0028,
+            "mrna_intracellular_mg": 0.0084,
+            "mrna_active_mg": 0.2403,
+            "protein_intracellular_mg": 32.6351,
+            "protein_secreted_mg_L": 6.90841,
+            "gag_systemic_percentage": 986.5
+        },
+        {
+            "time_hours": 14.0,
+            "lnp_plasma_mg": 0.0008,
+            "mrna_intracellular_mg": 0.0038,
+            "mrna_active_mg": 0.2182,
+            "protein_intracellular_mg": 34.1511,
+            "protein_secreted_mg_L": 8.77941,
+            "gag_systemic_percentage": 983.8
+        },
+        {
+            "time_hours": 16.0,
+            "lnp_plasma_mg": 0.0002,
+            "mrna_intracellular_mg": 0.0017,
+            "mrna_active_mg": 0.1964,
+            "protein_intracellular_mg": 34.3119,
+            "protein_secreted_mg_L": 10.42601,
+            "gag_systemic_percentage": 981.1
+        },
+        {
+            "time_hours": 18.0,
+            "lnp_plasma_mg": 0.0001,
+            "mrna_intracellular_mg": 0.0007,
+            "mrna_active_mg": 0.1759,
+            "protein_intracellular_mg": 33.5083,
+            "protein_secreted_mg_L": 11.78119,
+            "gag_systemic_percentage": 978.4
+        },
+        {
+            "time_hours": 20.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0003,
+            "mrna_active_mg": 0.1573,
+            "protein_intracellular_mg": 32.0614,
+            "protein_secreted_mg_L": 12.82025,
+            "gag_systemic_percentage": 975.7
+        },
+        {
+            "time_hours": 22.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0001,
+            "mrna_active_mg": 0.1404,
+            "protein_intracellular_mg": 30.2173,
+            "protein_secreted_mg_L": 13.54758,
+            "gag_systemic_percentage": 973.0
+        },
+        {
+            "time_hours": 24.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0001,
+            "mrna_active_mg": 0.1253,
+            "protein_intracellular_mg": 28.1567,
+            "protein_secreted_mg_L": 13.98573,
+            "gag_systemic_percentage": 970.3
+        },
+        {
+            "time_hours": 26.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.1118,
+            "protein_intracellular_mg": 26.0084,
+            "protein_secreted_mg_L": 14.16731,
+            "gag_systemic_percentage": 967.6
+        },
+        {
+            "time_hours": 28.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0997,
+            "protein_intracellular_mg": 23.8613,
+            "protein_secreted_mg_L": 14.12938,
+            "gag_systemic_percentage": 964.9
+        },
+        {
+            "time_hours": 30.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.089,
+            "protein_intracellular_mg": 21.7746,
+            "protein_secreted_mg_L": 13.90962,
+            "gag_systemic_percentage": 962.2
+        },
+        {
+            "time_hours": 32.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0794,
+            "protein_intracellular_mg": 19.7862,
+            "protein_secreted_mg_L": 13.54399,
+            "gag_systemic_percentage": 959.5
+        },
+        {
+            "time_hours": 34.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0708,
+            "protein_intracellular_mg": 17.9182,
+            "protein_secreted_mg_L": 13.06541,
+            "gag_systemic_percentage": 956.8
+        },
+        {
+            "time_hours": 36.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0631,
+            "protein_intracellular_mg": 16.1822,
+            "protein_secreted_mg_L": 12.503,
+            "gag_systemic_percentage": 954.1
+        },
+        {
+            "time_hours": 38.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0563,
+            "protein_intracellular_mg": 14.5819,
+            "protein_secreted_mg_L": 11.88198,
+            "gag_systemic_percentage": 951.4
+        },
+        {
+            "time_hours": 40.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0502,
+            "protein_intracellular_mg": 13.1161,
+            "protein_secreted_mg_L": 11.22363,
+            "gag_systemic_percentage": 948.7
+        },
+        {
+            "time_hours": 42.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0448,
+            "protein_intracellular_mg": 11.7803,
+            "protein_secreted_mg_L": 10.54561,
+            "gag_systemic_percentage": 946.0
+        },
+        {
+            "time_hours": 44.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.04,
+            "protein_intracellular_mg": 10.5678,
+            "protein_secreted_mg_L": 9.86227,
+            "gag_systemic_percentage": 943.4
+        },
+        {
+            "time_hours": 46.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0357,
+            "protein_intracellular_mg": 9.4706,
+            "protein_secreted_mg_L": 9.18504,
+            "gag_systemic_percentage": 940.7
+        },
+        {
+            "time_hours": 48.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0318,
+            "protein_intracellular_mg": 8.4804,
+            "protein_secreted_mg_L": 8.52279,
+            "gag_systemic_percentage": 938.0
+        },
+        {
+            "time_hours": 50.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0284,
+            "protein_intracellular_mg": 7.5887,
+            "protein_secreted_mg_L": 7.88226,
+            "gag_systemic_percentage": 935.3
+        },
+        {
+            "time_hours": 52.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0253,
+            "protein_intracellular_mg": 6.7869,
+            "protein_secreted_mg_L": 7.26834,
+            "gag_systemic_percentage": 932.6
+        },
+        {
+            "time_hours": 54.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0226,
+            "protein_intracellular_mg": 6.0671,
+            "protein_secreted_mg_L": 6.68444,
+            "gag_systemic_percentage": 929.9
+        },
+        {
+            "time_hours": 56.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0201,
+            "protein_intracellular_mg": 5.4216,
+            "protein_secreted_mg_L": 6.13271,
+            "gag_systemic_percentage": 927.2
+        },
+        {
+            "time_hours": 58.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.018,
+            "protein_intracellular_mg": 4.8432,
+            "protein_secreted_mg_L": 5.61431,
+            "gag_systemic_percentage": 924.5
+        },
+        {
+            "time_hours": 60.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.016,
+            "protein_intracellular_mg": 4.3254,
+            "protein_secreted_mg_L": 5.12961,
+            "gag_systemic_percentage": 921.8
+        },
+        {
+            "time_hours": 62.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0143,
+            "protein_intracellular_mg": 3.8622,
+            "protein_secreted_mg_L": 4.67836,
+            "gag_systemic_percentage": 919.1
+        },
+        {
+            "time_hours": 64.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0127,
+            "protein_intracellular_mg": 3.4479,
+            "protein_secreted_mg_L": 4.25985,
+            "gag_systemic_percentage": 916.4
+        },
+        {
+            "time_hours": 66.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0114,
+            "protein_intracellular_mg": 3.0777,
+            "protein_secreted_mg_L": 3.87299,
+            "gag_systemic_percentage": 913.7
+        },
+        {
+            "time_hours": 68.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0101,
+            "protein_intracellular_mg": 2.7468,
+            "protein_secreted_mg_L": 3.51646,
+            "gag_systemic_percentage": 911.0
+        },
+        {
+            "time_hours": 70.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.009,
+            "protein_intracellular_mg": 2.4513,
+            "protein_secreted_mg_L": 3.18875,
+            "gag_systemic_percentage": 908.4
+        },
+        {
+            "time_hours": 72.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0081,
+            "protein_intracellular_mg": 2.1873,
+            "protein_secreted_mg_L": 2.88826,
+            "gag_systemic_percentage": 905.7
+        },
+        {
+            "time_hours": 74.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0072,
+            "protein_intracellular_mg": 1.9517,
+            "protein_secreted_mg_L": 2.61332,
+            "gag_systemic_percentage": 903.0
+        },
+        {
+            "time_hours": 76.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0064,
+            "protein_intracellular_mg": 1.7414,
+            "protein_secreted_mg_L": 2.36225,
+            "gag_systemic_percentage": 900.3
+        },
+        {
+            "time_hours": 78.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0057,
+            "protein_intracellular_mg": 1.5536,
+            "protein_secreted_mg_L": 2.13339,
+            "gag_systemic_percentage": 897.6
+        },
+        {
+            "time_hours": 80.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0051,
+            "protein_intracellular_mg": 1.386,
+            "protein_secreted_mg_L": 1.9251,
+            "gag_systemic_percentage": 895.0
+        },
+        {
+            "time_hours": 82.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0046,
+            "protein_intracellular_mg": 1.2365,
+            "protein_secreted_mg_L": 1.73581,
+            "gag_systemic_percentage": 892.3
+        },
+        {
+            "time_hours": 84.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0041,
+            "protein_intracellular_mg": 1.1031,
+            "protein_secreted_mg_L": 1.56402,
+            "gag_systemic_percentage": 889.6
+        },
+        {
+            "time_hours": 86.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0036,
+            "protein_intracellular_mg": 0.984,
+            "protein_secreted_mg_L": 1.40831,
+            "gag_systemic_percentage": 886.9
+        },
+        {
+            "time_hours": 88.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0032,
+            "protein_intracellular_mg": 0.8778,
+            "protein_secreted_mg_L": 1.26732,
+            "gag_systemic_percentage": 884.3
+        },
+        {
+            "time_hours": 90.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0029,
+            "protein_intracellular_mg": 0.783,
+            "protein_secreted_mg_L": 1.1398,
+            "gag_systemic_percentage": 881.6
+        },
+        {
+            "time_hours": 92.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0026,
+            "protein_intracellular_mg": 0.6985,
+            "protein_secreted_mg_L": 1.02458,
+            "gag_systemic_percentage": 878.9
+        },
+        {
+            "time_hours": 94.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0023,
+            "protein_intracellular_mg": 0.623,
+            "protein_secreted_mg_L": 0.92054,
+            "gag_systemic_percentage": 876.3
+        },
+        {
+            "time_hours": 96.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.002,
+            "protein_intracellular_mg": 0.5558,
+            "protein_secreted_mg_L": 0.8267,
+            "gag_systemic_percentage": 873.6
+        },
+        {
+            "time_hours": 98.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0018,
+            "protein_intracellular_mg": 0.4957,
+            "protein_secreted_mg_L": 0.7421,
+            "gag_systemic_percentage": 871.0
+        },
+        {
+            "time_hours": 100.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0016,
+            "protein_intracellular_mg": 0.4422,
+            "protein_secreted_mg_L": 0.6659,
+            "gag_systemic_percentage": 868.4
+        },
+        {
+            "time_hours": 102.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0015,
+            "protein_intracellular_mg": 0.3944,
+            "protein_secreted_mg_L": 0.5973,
+            "gag_systemic_percentage": 865.7
+        },
+        {
+            "time_hours": 104.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0013,
+            "protein_intracellular_mg": 0.3518,
+            "protein_secreted_mg_L": 0.53559,
+            "gag_systemic_percentage": 863.1
+        },
+        {
+            "time_hours": 106.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0012,
+            "protein_intracellular_mg": 0.3138,
+            "protein_secreted_mg_L": 0.48009,
+            "gag_systemic_percentage": 860.5
+        },
+        {
+            "time_hours": 108.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.001,
+            "protein_intracellular_mg": 0.2799,
+            "protein_secreted_mg_L": 0.43022,
+            "gag_systemic_percentage": 857.9
+        },
+        {
+            "time_hours": 110.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0009,
+            "protein_intracellular_mg": 0.2497,
+            "protein_secreted_mg_L": 0.38542,
+            "gag_systemic_percentage": 855.3
+        },
+        {
+            "time_hours": 112.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0008,
+            "protein_intracellular_mg": 0.2227,
+            "protein_secreted_mg_L": 0.34519,
+            "gag_systemic_percentage": 852.7
+        },
+        {
+            "time_hours": 114.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0007,
+            "protein_intracellular_mg": 0.1987,
+            "protein_secreted_mg_L": 0.30908,
+            "gag_systemic_percentage": 850.1
+        },
+        {
+            "time_hours": 116.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0007,
+            "protein_intracellular_mg": 0.1772,
+            "protein_secreted_mg_L": 0.27669,
+            "gag_systemic_percentage": 847.6
+        },
+        {
+            "time_hours": 118.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0006,
+            "protein_intracellular_mg": 0.1581,
+            "protein_secreted_mg_L": 0.24764,
+            "gag_systemic_percentage": 845.1
+        },
+        {
+            "time_hours": 120.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0005,
+            "protein_intracellular_mg": 0.141,
+            "protein_secreted_mg_L": 0.22159,
+            "gag_systemic_percentage": 842.5
+        },
+        {
+            "time_hours": 122.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0005,
+            "protein_intracellular_mg": 0.1257,
+            "protein_secreted_mg_L": 0.19825,
+            "gag_systemic_percentage": 840.0
+        },
+        {
+            "time_hours": 124.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0004,
+            "protein_intracellular_mg": 0.1122,
+            "protein_secreted_mg_L": 0.17733,
+            "gag_systemic_percentage": 837.6
+        },
+        {
+            "time_hours": 126.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0004,
+            "protein_intracellular_mg": 0.1,
+            "protein_secreted_mg_L": 0.15859,
+            "gag_systemic_percentage": 835.1
+        },
+        {
+            "time_hours": 128.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0003,
+            "protein_intracellular_mg": 0.0892,
+            "protein_secreted_mg_L": 0.14182,
+            "gag_systemic_percentage": 832.7
+        },
+        {
+            "time_hours": 130.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0003,
+            "protein_intracellular_mg": 0.0796,
+            "protein_secreted_mg_L": 0.12679,
+            "gag_systemic_percentage": 830.3
+        },
+        {
+            "time_hours": 132.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0003,
+            "protein_intracellular_mg": 0.071,
+            "protein_secreted_mg_L": 0.11335,
+            "gag_systemic_percentage": 827.9
+        },
+        {
+            "time_hours": 134.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0002,
+            "protein_intracellular_mg": 0.0633,
+            "protein_secreted_mg_L": 0.10131,
+            "gag_systemic_percentage": 825.6
+        },
+        {
+            "time_hours": 136.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0002,
+            "protein_intracellular_mg": 0.0565,
+            "protein_secreted_mg_L": 0.09054,
+            "gag_systemic_percentage": 823.3
+        },
+        {
+            "time_hours": 138.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0002,
+            "protein_intracellular_mg": 0.0504,
+            "protein_secreted_mg_L": 0.08091,
+            "gag_systemic_percentage": 821.0
+        },
+        {
+            "time_hours": 140.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0002,
+            "protein_intracellular_mg": 0.0449,
+            "protein_secreted_mg_L": 0.0723,
+            "gag_systemic_percentage": 818.8
+        },
+        {
+            "time_hours": 142.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0401,
+            "protein_secreted_mg_L": 0.06459,
+            "gag_systemic_percentage": 816.7
+        },
+        {
+            "time_hours": 144.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0358,
+            "protein_secreted_mg_L": 0.0577,
+            "gag_systemic_percentage": 814.5
+        },
+        {
+            "time_hours": 146.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0319,
+            "protein_secreted_mg_L": 0.05154,
+            "gag_systemic_percentage": 812.5
+        },
+        {
+            "time_hours": 148.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0284,
+            "protein_secreted_mg_L": 0.04604,
+            "gag_systemic_percentage": 810.5
+        },
+        {
+            "time_hours": 150.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0254,
+            "protein_secreted_mg_L": 0.04112,
+            "gag_systemic_percentage": 808.6
+        },
+        {
+            "time_hours": 152.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0226,
+            "protein_secreted_mg_L": 0.03672,
+            "gag_systemic_percentage": 806.7
+        },
+        {
+            "time_hours": 154.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0202,
+            "protein_secreted_mg_L": 0.03279,
+            "gag_systemic_percentage": 804.9
+        },
+        {
+            "time_hours": 156.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.018,
+            "protein_secreted_mg_L": 0.02928,
+            "gag_systemic_percentage": 803.2
+        },
+        {
+            "time_hours": 158.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0161,
+            "protein_secreted_mg_L": 0.02614,
+            "gag_systemic_percentage": 801.5
+        },
+        {
+            "time_hours": 160.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0143,
+            "protein_secreted_mg_L": 0.02334,
+            "gag_systemic_percentage": 800.0
+        },
+        {
+            "time_hours": 162.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0,
+            "protein_intracellular_mg": 0.0128,
+            "protein_secreted_mg_L": 0.02084,
+            "gag_systemic_percentage": 798.5
+        },
+        {
+            "time_hours": 164.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0,
+            "protein_intracellular_mg": 0.0114,
+            "protein_secreted_mg_L": 0.0186,
+            "gag_systemic_percentage": 797.1
+        },
+        {
+            "time_hours": 166.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0,
+            "protein_intracellular_mg": 0.0102,
+            "protein_secreted_mg_L": 0.01661,
+            "gag_systemic_percentage": 795.7
+        },
+        {
+            "time_hours": 168.0,
+            "lnp_plasma_mg": 4.7,
+            "mrna_intracellular_mg": 0.027,
+            "mrna_active_mg": 0.0,
+            "protein_intracellular_mg": 0.0091,
+            "protein_secreted_mg_L": 0.01482,
+            "gag_systemic_percentage": 794.5
+        },
+        {
+            "time_hours": 170.0,
+            "lnp_plasma_mg": 1.3635,
+            "mrna_intracellular_mg": 0.2031,
+            "mrna_active_mg": 0.1023,
+            "protein_intracellular_mg": 1.84,
+            "protein_secreted_mg_L": 0.05707,
+            "gag_systemic_percentage": 793.1
+        },
+        {
+            "time_hours": 172.0,
+            "lnp_plasma_mg": 0.3956,
+            "mrna_intracellular_mg": 0.144,
+            "mrna_active_mg": 0.2101,
+            "protein_intracellular_mg": 8.3603,
+            "protein_secreted_mg_L": 0.46733,
+            "gag_systemic_percentage": 790.7
+        },
+        {
+            "time_hours": 174.0,
+            "lnp_plasma_mg": 0.1148,
+            "mrna_intracellular_mg": 0.0788,
+            "mrna_active_mg": 0.2606,
+            "protein_intracellular_mg": 16.6231,
+            "protein_secreted_mg_L": 1.49081,
+            "gag_systemic_percentage": 788.0
+        },
+        {
+            "time_hours": 176.0,
+            "lnp_plasma_mg": 0.0333,
+            "mrna_intracellular_mg": 0.039,
+            "mrna_active_mg": 0.2707,
+            "protein_intracellular_mg": 23.9786,
+            "protein_secreted_mg_L": 3.05745,
+            "gag_systemic_percentage": 785.3
+        },
+        {
+            "time_hours": 178.0,
+            "lnp_plasma_mg": 0.0097,
+            "mrna_intracellular_mg": 0.0183,
+            "mrna_active_mg": 0.2599,
+            "protein_intracellular_mg": 29.3512,
+            "protein_secreted_mg_L": 4.94432,
+            "gag_systemic_percentage": 782.7
+        },
+        {
+            "time_hours": 180.0,
+            "lnp_plasma_mg": 0.0028,
+            "mrna_intracellular_mg": 0.0084,
+            "mrna_active_mg": 0.2403,
+            "protein_intracellular_mg": 32.6396,
+            "protein_secreted_mg_L": 6.9159,
+            "gag_systemic_percentage": 780.0
+        },
+        {
+            "time_hours": 182.0,
+            "lnp_plasma_mg": 0.0008,
+            "mrna_intracellular_mg": 0.0038,
+            "mrna_active_mg": 0.2183,
+            "protein_intracellular_mg": 34.1552,
+            "protein_secreted_mg_L": 8.7861,
+            "gag_systemic_percentage": 777.3
+        },
+        {
+            "time_hours": 184.0,
+            "lnp_plasma_mg": 0.0002,
+            "mrna_intracellular_mg": 0.0017,
+            "mrna_active_mg": 0.1964,
+            "protein_intracellular_mg": 34.3155,
+            "protein_secreted_mg_L": 10.43198,
+            "gag_systemic_percentage": 774.6
+        },
+        {
+            "time_hours": 186.0,
+            "lnp_plasma_mg": 0.0001,
+            "mrna_intracellular_mg": 0.0007,
+            "mrna_active_mg": 0.176,
+            "protein_intracellular_mg": 33.5116,
+            "protein_secreted_mg_L": 11.78651,
+            "gag_systemic_percentage": 771.9
+        },
+        {
+            "time_hours": 188.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0003,
+            "mrna_active_mg": 0.1573,
+            "protein_intracellular_mg": 32.0643,
+            "protein_secreted_mg_L": 12.82501,
+            "gag_systemic_percentage": 769.2
+        },
+        {
+            "time_hours": 190.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0001,
+            "mrna_active_mg": 0.1404,
+            "protein_intracellular_mg": 30.2199,
+            "protein_secreted_mg_L": 13.55182,
+            "gag_systemic_percentage": 766.5
+        },
+        {
+            "time_hours": 192.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0001,
+            "mrna_active_mg": 0.1253,
+            "protein_intracellular_mg": 28.159,
+            "protein_secreted_mg_L": 13.98951,
+            "gag_systemic_percentage": 763.8
+        },
+        {
+            "time_hours": 194.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.1118,
+            "protein_intracellular_mg": 26.0105,
+            "protein_secreted_mg_L": 14.17069,
+            "gag_systemic_percentage": 761.1
+        },
+        {
+            "time_hours": 196.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0998,
+            "protein_intracellular_mg": 23.8631,
+            "protein_secreted_mg_L": 14.13239,
+            "gag_systemic_percentage": 758.4
+        },
+        {
+            "time_hours": 198.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.089,
+            "protein_intracellular_mg": 21.7763,
+            "protein_secreted_mg_L": 13.91231,
+            "gag_systemic_percentage": 755.7
+        },
+        {
+            "time_hours": 200.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0794,
+            "protein_intracellular_mg": 19.7876,
+            "protein_secreted_mg_L": 13.54639,
+            "gag_systemic_percentage": 753.0
+        },
+        {
+            "time_hours": 202.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0708,
+            "protein_intracellular_mg": 17.9195,
+            "protein_secreted_mg_L": 13.06755,
+            "gag_systemic_percentage": 750.3
+        },
+        {
+            "time_hours": 204.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0632,
+            "protein_intracellular_mg": 16.1833,
+            "protein_secreted_mg_L": 12.50491,
+            "gag_systemic_percentage": 747.6
+        },
+        {
+            "time_hours": 206.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0563,
+            "protein_intracellular_mg": 14.5829,
+            "protein_secreted_mg_L": 11.88368,
+            "gag_systemic_percentage": 744.9
+        },
+        {
+            "time_hours": 208.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0502,
+            "protein_intracellular_mg": 13.1171,
+            "protein_secreted_mg_L": 11.22515,
+            "gag_systemic_percentage": 742.2
+        },
+        {
+            "time_hours": 210.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0448,
+            "protein_intracellular_mg": 11.7811,
+            "protein_secreted_mg_L": 10.54697,
+            "gag_systemic_percentage": 739.5
+        },
+        {
+            "time_hours": 212.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.04,
+            "protein_intracellular_mg": 10.5685,
+            "protein_secreted_mg_L": 9.86348,
+            "gag_systemic_percentage": 736.8
+        },
+        {
+            "time_hours": 214.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0357,
+            "protein_intracellular_mg": 9.4713,
+            "protein_secreted_mg_L": 9.18612,
+            "gag_systemic_percentage": 734.1
+        },
+        {
+            "time_hours": 216.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0318,
+            "protein_intracellular_mg": 8.481,
+            "protein_secreted_mg_L": 8.52375,
+            "gag_systemic_percentage": 731.4
+        },
+        {
+            "time_hours": 218.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0284,
+            "protein_intracellular_mg": 7.5892,
+            "protein_secreted_mg_L": 7.88312,
+            "gag_systemic_percentage": 728.7
+        },
+        {
+            "time_hours": 220.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0253,
+            "protein_intracellular_mg": 6.7874,
+            "protein_secreted_mg_L": 7.26911,
+            "gag_systemic_percentage": 726.1
+        },
+        {
+            "time_hours": 222.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0226,
+            "protein_intracellular_mg": 6.0675,
+            "protein_secreted_mg_L": 6.68513,
+            "gag_systemic_percentage": 723.4
+        },
+        {
+            "time_hours": 224.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0201,
+            "protein_intracellular_mg": 5.422,
+            "protein_secreted_mg_L": 6.13332,
+            "gag_systemic_percentage": 720.7
+        },
+        {
+            "time_hours": 226.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.018,
+            "protein_intracellular_mg": 4.8436,
+            "protein_secreted_mg_L": 5.61485,
+            "gag_systemic_percentage": 718.0
+        },
+        {
+            "time_hours": 228.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.016,
+            "protein_intracellular_mg": 4.3257,
+            "protein_secreted_mg_L": 5.1301,
+            "gag_systemic_percentage": 715.3
+        },
+        {
+            "time_hours": 230.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0143,
+            "protein_intracellular_mg": 3.8624,
+            "protein_secreted_mg_L": 4.6788,
+            "gag_systemic_percentage": 712.6
+        },
+        {
+            "time_hours": 232.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0127,
+            "protein_intracellular_mg": 3.4482,
+            "protein_secreted_mg_L": 4.26023,
+            "gag_systemic_percentage": 709.9
+        },
+        {
+            "time_hours": 234.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0114,
+            "protein_intracellular_mg": 3.0779,
+            "protein_secreted_mg_L": 3.87333,
+            "gag_systemic_percentage": 707.2
+        },
+        {
+            "time_hours": 236.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0101,
+            "protein_intracellular_mg": 2.747,
+            "protein_secreted_mg_L": 3.51676,
+            "gag_systemic_percentage": 704.5
+        },
+        {
+            "time_hours": 238.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.009,
+            "protein_intracellular_mg": 2.4514,
+            "protein_secreted_mg_L": 3.18902,
+            "gag_systemic_percentage": 701.8
+        },
+        {
+            "time_hours": 240.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0081,
+            "protein_intracellular_mg": 2.1875,
+            "protein_secreted_mg_L": 2.88851,
+            "gag_systemic_percentage": 699.1
+        },
+        {
+            "time_hours": 242.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0072,
+            "protein_intracellular_mg": 1.9518,
+            "protein_secreted_mg_L": 2.61354,
+            "gag_systemic_percentage": 696.5
+        },
+        {
+            "time_hours": 244.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0064,
+            "protein_intracellular_mg": 1.7415,
+            "protein_secreted_mg_L": 2.36245,
+            "gag_systemic_percentage": 693.8
+        },
+        {
+            "time_hours": 246.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0057,
+            "protein_intracellular_mg": 1.5537,
+            "protein_secreted_mg_L": 2.13356,
+            "gag_systemic_percentage": 691.1
+        },
+        {
+            "time_hours": 248.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0051,
+            "protein_intracellular_mg": 1.3861,
+            "protein_secreted_mg_L": 1.92525,
+            "gag_systemic_percentage": 688.4
+        },
+        {
+            "time_hours": 250.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0046,
+            "protein_intracellular_mg": 1.2366,
+            "protein_secreted_mg_L": 1.73595,
+            "gag_systemic_percentage": 685.8
+        },
+        {
+            "time_hours": 252.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0041,
+            "protein_intracellular_mg": 1.1031,
+            "protein_secreted_mg_L": 1.56415,
+            "gag_systemic_percentage": 683.1
+        },
+        {
+            "time_hours": 254.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0036,
+            "protein_intracellular_mg": 0.9841,
+            "protein_secreted_mg_L": 1.40842,
+            "gag_systemic_percentage": 680.4
+        },
+        {
+            "time_hours": 256.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0032,
+            "protein_intracellular_mg": 0.8778,
+            "protein_secreted_mg_L": 1.26742,
+            "gag_systemic_percentage": 677.7
+        },
+        {
+            "time_hours": 258.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0029,
+            "protein_intracellular_mg": 0.7831,
+            "protein_secreted_mg_L": 1.13989,
+            "gag_systemic_percentage": 675.1
+        },
+        {
+            "time_hours": 260.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0026,
+            "protein_intracellular_mg": 0.6985,
+            "protein_secreted_mg_L": 1.02465,
+            "gag_systemic_percentage": 672.4
+        },
+        {
+            "time_hours": 262.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0023,
+            "protein_intracellular_mg": 0.6231,
+            "protein_secreted_mg_L": 0.92061,
+            "gag_systemic_percentage": 669.8
+        },
+        {
+            "time_hours": 264.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.002,
+            "protein_intracellular_mg": 0.5558,
+            "protein_secreted_mg_L": 0.82676,
+            "gag_systemic_percentage": 667.1
+        },
+        {
+            "time_hours": 266.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0018,
+            "protein_intracellular_mg": 0.4958,
+            "protein_secreted_mg_L": 0.74216,
+            "gag_systemic_percentage": 664.5
+        },
+        {
+            "time_hours": 268.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0016,
+            "protein_intracellular_mg": 0.4422,
+            "protein_secreted_mg_L": 0.66595,
+            "gag_systemic_percentage": 661.8
+        },
+        {
+            "time_hours": 270.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0015,
+            "protein_intracellular_mg": 0.3945,
+            "protein_secreted_mg_L": 0.59735,
+            "gag_systemic_percentage": 659.2
+        },
+        {
+            "time_hours": 272.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0013,
+            "protein_intracellular_mg": 0.3518,
+            "protein_secreted_mg_L": 0.53563,
+            "gag_systemic_percentage": 656.6
+        },
+        {
+            "time_hours": 274.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0012,
+            "protein_intracellular_mg": 0.3138,
+            "protein_secreted_mg_L": 0.48013,
+            "gag_systemic_percentage": 654.0
+        },
+        {
+            "time_hours": 276.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.001,
+            "protein_intracellular_mg": 0.2799,
+            "protein_secreted_mg_L": 0.43025,
+            "gag_systemic_percentage": 651.4
+        },
+        {
+            "time_hours": 278.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0009,
+            "protein_intracellular_mg": 0.2497,
+            "protein_secreted_mg_L": 0.38544,
+            "gag_systemic_percentage": 648.8
+        },
+        {
+            "time_hours": 280.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0008,
+            "protein_intracellular_mg": 0.2227,
+            "protein_secreted_mg_L": 0.34521,
+            "gag_systemic_percentage": 646.2
+        },
+        {
+            "time_hours": 282.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0007,
+            "protein_intracellular_mg": 0.1987,
+            "protein_secreted_mg_L": 0.3091,
+            "gag_systemic_percentage": 643.6
+        },
+        {
+            "time_hours": 284.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0007,
+            "protein_intracellular_mg": 0.1772,
+            "protein_secreted_mg_L": 0.27671,
+            "gag_systemic_percentage": 641.1
+        },
+        {
+            "time_hours": 286.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0006,
+            "protein_intracellular_mg": 0.1581,
+            "protein_secreted_mg_L": 0.24766,
+            "gag_systemic_percentage": 638.5
+        },
+        {
+            "time_hours": 288.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0005,
+            "protein_intracellular_mg": 0.141,
+            "protein_secreted_mg_L": 0.22161,
+            "gag_systemic_percentage": 636.0
+        },
+        {
+            "time_hours": 290.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0005,
+            "protein_intracellular_mg": 0.1258,
+            "protein_secreted_mg_L": 0.19826,
+            "gag_systemic_percentage": 633.5
+        },
+        {
+            "time_hours": 292.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0004,
+            "protein_intracellular_mg": 0.1122,
+            "protein_secreted_mg_L": 0.17734,
+            "gag_systemic_percentage": 631.0
+        },
+        {
+            "time_hours": 294.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0004,
+            "protein_intracellular_mg": 0.1001,
+            "protein_secreted_mg_L": 0.15861,
+            "gag_systemic_percentage": 628.6
+        },
+        {
+            "time_hours": 296.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0003,
+            "protein_intracellular_mg": 0.0892,
+            "protein_secreted_mg_L": 0.14183,
+            "gag_systemic_percentage": 626.1
+        },
+        {
+            "time_hours": 298.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0003,
+            "protein_intracellular_mg": 0.0796,
+            "protein_secreted_mg_L": 0.1268,
+            "gag_systemic_percentage": 623.7
+        },
+        {
+            "time_hours": 300.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0003,
+            "protein_intracellular_mg": 0.071,
+            "protein_secreted_mg_L": 0.11335,
+            "gag_systemic_percentage": 621.4
+        },
+        {
+            "time_hours": 302.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0002,
+            "protein_intracellular_mg": 0.0633,
+            "protein_secreted_mg_L": 0.10132,
+            "gag_systemic_percentage": 619.0
+        },
+        {
+            "time_hours": 304.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0002,
+            "protein_intracellular_mg": 0.0565,
+            "protein_secreted_mg_L": 0.09055,
+            "gag_systemic_percentage": 616.8
+        },
+        {
+            "time_hours": 306.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0002,
+            "protein_intracellular_mg": 0.0504,
+            "protein_secreted_mg_L": 0.08092,
+            "gag_systemic_percentage": 614.5
+        },
+        {
+            "time_hours": 308.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0002,
+            "protein_intracellular_mg": 0.0449,
+            "protein_secreted_mg_L": 0.0723,
+            "gag_systemic_percentage": 612.3
+        },
+        {
+            "time_hours": 310.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0401,
+            "protein_secreted_mg_L": 0.0646,
+            "gag_systemic_percentage": 610.1
+        },
+        {
+            "time_hours": 312.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0358,
+            "protein_secreted_mg_L": 0.05771,
+            "gag_systemic_percentage": 608.0
+        },
+        {
+            "time_hours": 314.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0319,
+            "protein_secreted_mg_L": 0.05155,
+            "gag_systemic_percentage": 606.0
+        },
+        {
+            "time_hours": 316.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0284,
+            "protein_secreted_mg_L": 0.04604,
+            "gag_systemic_percentage": 604.0
+        },
+        {
+            "time_hours": 318.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0254,
+            "protein_secreted_mg_L": 0.04112,
+            "gag_systemic_percentage": 602.0
+        },
+        {
+            "time_hours": 320.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0226,
+            "protein_secreted_mg_L": 0.03672,
+            "gag_systemic_percentage": 600.2
+        },
+        {
+            "time_hours": 322.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0202,
+            "protein_secreted_mg_L": 0.03279,
+            "gag_systemic_percentage": 598.4
+        },
+        {
+            "time_hours": 324.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.018,
+            "protein_secreted_mg_L": 0.02928,
+            "gag_systemic_percentage": 596.7
+        },
+        {
+            "time_hours": 326.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0161,
+            "protein_secreted_mg_L": 0.02614,
+            "gag_systemic_percentage": 595.0
+        },
+        {
+            "time_hours": 328.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0143,
+            "protein_secreted_mg_L": 0.02334,
+            "gag_systemic_percentage": 593.4
+        },
+        {
+            "time_hours": 330.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0,
+            "protein_intracellular_mg": 0.0128,
+            "protein_secreted_mg_L": 0.02084,
+            "gag_systemic_percentage": 591.9
+        },
+        {
+            "time_hours": 332.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0,
+            "protein_intracellular_mg": 0.0114,
+            "protein_secreted_mg_L": 0.0186,
+            "gag_systemic_percentage": 590.5
+        },
+        {
+            "time_hours": 334.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0,
+            "protein_intracellular_mg": 0.0102,
+            "protein_secreted_mg_L": 0.01661,
+            "gag_systemic_percentage": 589.2
+        },
+        {
+            "time_hours": 336.0,
+            "lnp_plasma_mg": 4.7,
+            "mrna_intracellular_mg": 0.027,
+            "mrna_active_mg": 0.0,
+            "protein_intracellular_mg": 0.0091,
+            "protein_secreted_mg_L": 0.01482,
+            "gag_systemic_percentage": 588.0
+        },
+        {
+            "time_hours": 338.0,
+            "lnp_plasma_mg": 1.3635,
+            "mrna_intracellular_mg": 0.2031,
+            "mrna_active_mg": 0.1023,
+            "protein_intracellular_mg": 1.84,
+            "protein_secreted_mg_L": 0.05707,
+            "gag_systemic_percentage": 586.6
+        },
+        {
+            "time_hours": 340.0,
+            "lnp_plasma_mg": 0.3956,
+            "mrna_intracellular_mg": 0.144,
+            "mrna_active_mg": 0.2101,
+            "protein_intracellular_mg": 8.3603,
+            "protein_secreted_mg_L": 0.46733,
+            "gag_systemic_percentage": 584.1
+        },
+        {
+            "time_hours": 342.0,
+            "lnp_plasma_mg": 0.1148,
+            "mrna_intracellular_mg": 0.0788,
+            "mrna_active_mg": 0.2606,
+            "protein_intracellular_mg": 16.6231,
+            "protein_secreted_mg_L": 1.49081,
+            "gag_systemic_percentage": 581.5
+        },
+        {
+            "time_hours": 344.0,
+            "lnp_plasma_mg": 0.0333,
+            "mrna_intracellular_mg": 0.039,
+            "mrna_active_mg": 0.2707,
+            "protein_intracellular_mg": 23.9786,
+            "protein_secreted_mg_L": 3.05745,
+            "gag_systemic_percentage": 578.8
+        },
+        {
+            "time_hours": 346.0,
+            "lnp_plasma_mg": 0.0097,
+            "mrna_intracellular_mg": 0.0183,
+            "mrna_active_mg": 0.2599,
+            "protein_intracellular_mg": 29.3512,
+            "protein_secreted_mg_L": 4.94432,
+            "gag_systemic_percentage": 576.1
+        },
+        {
+            "time_hours": 348.0,
+            "lnp_plasma_mg": 0.0028,
+            "mrna_intracellular_mg": 0.0084,
+            "mrna_active_mg": 0.2403,
+            "protein_intracellular_mg": 32.6396,
+            "protein_secreted_mg_L": 6.9159,
+            "gag_systemic_percentage": 573.4
+        },
+        {
+            "time_hours": 350.0,
+            "lnp_plasma_mg": 0.0008,
+            "mrna_intracellular_mg": 0.0038,
+            "mrna_active_mg": 0.2183,
+            "protein_intracellular_mg": 34.1552,
+            "protein_secreted_mg_L": 8.7861,
+            "gag_systemic_percentage": 570.7
+        },
+        {
+            "time_hours": 352.0,
+            "lnp_plasma_mg": 0.0002,
+            "mrna_intracellular_mg": 0.0017,
+            "mrna_active_mg": 0.1964,
+            "protein_intracellular_mg": 34.3155,
+            "protein_secreted_mg_L": 10.43198,
+            "gag_systemic_percentage": 568.1
+        },
+        {
+            "time_hours": 354.0,
+            "lnp_plasma_mg": 0.0001,
+            "mrna_intracellular_mg": 0.0007,
+            "mrna_active_mg": 0.176,
+            "protein_intracellular_mg": 33.5116,
+            "protein_secreted_mg_L": 11.78651,
+            "gag_systemic_percentage": 565.4
+        },
+        {
+            "time_hours": 356.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0003,
+            "mrna_active_mg": 0.1573,
+            "protein_intracellular_mg": 32.0643,
+            "protein_secreted_mg_L": 12.82501,
+            "gag_systemic_percentage": 562.7
+        },
+        {
+            "time_hours": 358.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0001,
+            "mrna_active_mg": 0.1404,
+            "protein_intracellular_mg": 30.2199,
+            "protein_secreted_mg_L": 13.55182,
+            "gag_systemic_percentage": 560.0
+        },
+        {
+            "time_hours": 360.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0001,
+            "mrna_active_mg": 0.1253,
+            "protein_intracellular_mg": 28.159,
+            "protein_secreted_mg_L": 13.98951,
+            "gag_systemic_percentage": 557.3
+        },
+        {
+            "time_hours": 362.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.1118,
+            "protein_intracellular_mg": 26.0105,
+            "protein_secreted_mg_L": 14.17069,
+            "gag_systemic_percentage": 554.6
+        },
+        {
+            "time_hours": 364.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0998,
+            "protein_intracellular_mg": 23.8631,
+            "protein_secreted_mg_L": 14.13239,
+            "gag_systemic_percentage": 551.9
+        },
+        {
+            "time_hours": 366.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.089,
+            "protein_intracellular_mg": 21.7763,
+            "protein_secreted_mg_L": 13.91231,
+            "gag_systemic_percentage": 549.2
+        },
+        {
+            "time_hours": 368.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0794,
+            "protein_intracellular_mg": 19.7876,
+            "protein_secreted_mg_L": 13.54639,
+            "gag_systemic_percentage": 546.5
+        },
+        {
+            "time_hours": 370.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0708,
+            "protein_intracellular_mg": 17.9195,
+            "protein_secreted_mg_L": 13.06755,
+            "gag_systemic_percentage": 543.8
+        },
+        {
+            "time_hours": 372.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0632,
+            "protein_intracellular_mg": 16.1833,
+            "protein_secreted_mg_L": 12.50491,
+            "gag_systemic_percentage": 541.1
+        },
+        {
+            "time_hours": 374.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0563,
+            "protein_intracellular_mg": 14.5829,
+            "protein_secreted_mg_L": 11.88368,
+            "gag_systemic_percentage": 538.4
+        },
+        {
+            "time_hours": 376.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0502,
+            "protein_intracellular_mg": 13.1171,
+            "protein_secreted_mg_L": 11.22515,
+            "gag_systemic_percentage": 535.7
+        },
+        {
+            "time_hours": 378.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0448,
+            "protein_intracellular_mg": 11.7811,
+            "protein_secreted_mg_L": 10.54697,
+            "gag_systemic_percentage": 533.0
+        },
+        {
+            "time_hours": 380.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.04,
+            "protein_intracellular_mg": 10.5685,
+            "protein_secreted_mg_L": 9.86348,
+            "gag_systemic_percentage": 530.3
+        },
+        {
+            "time_hours": 382.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0357,
+            "protein_intracellular_mg": 9.4713,
+            "protein_secreted_mg_L": 9.18612,
+            "gag_systemic_percentage": 527.6
+        },
+        {
+            "time_hours": 384.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0318,
+            "protein_intracellular_mg": 8.481,
+            "protein_secreted_mg_L": 8.52375,
+            "gag_systemic_percentage": 524.9
+        },
+        {
+            "time_hours": 386.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0284,
+            "protein_intracellular_mg": 7.5892,
+            "protein_secreted_mg_L": 7.88312,
+            "gag_systemic_percentage": 522.2
+        },
+        {
+            "time_hours": 388.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0253,
+            "protein_intracellular_mg": 6.7874,
+            "protein_secreted_mg_L": 7.26911,
+            "gag_systemic_percentage": 519.5
+        },
+        {
+            "time_hours": 390.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0226,
+            "protein_intracellular_mg": 6.0675,
+            "protein_secreted_mg_L": 6.68513,
+            "gag_systemic_percentage": 516.8
+        },
+        {
+            "time_hours": 392.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0201,
+            "protein_intracellular_mg": 5.422,
+            "protein_secreted_mg_L": 6.13332,
+            "gag_systemic_percentage": 514.1
+        },
+        {
+            "time_hours": 394.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.018,
+            "protein_intracellular_mg": 4.8436,
+            "protein_secreted_mg_L": 5.61485,
+            "gag_systemic_percentage": 511.4
+        },
+        {
+            "time_hours": 396.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.016,
+            "protein_intracellular_mg": 4.3257,
+            "protein_secreted_mg_L": 5.1301,
+            "gag_systemic_percentage": 508.8
+        },
+        {
+            "time_hours": 398.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0143,
+            "protein_intracellular_mg": 3.8624,
+            "protein_secreted_mg_L": 4.6788,
+            "gag_systemic_percentage": 506.1
+        },
+        {
+            "time_hours": 400.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0127,
+            "protein_intracellular_mg": 3.4482,
+            "protein_secreted_mg_L": 4.26023,
+            "gag_systemic_percentage": 503.4
+        },
+        {
+            "time_hours": 402.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0114,
+            "protein_intracellular_mg": 3.0779,
+            "protein_secreted_mg_L": 3.87333,
+            "gag_systemic_percentage": 500.7
+        },
+        {
+            "time_hours": 404.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0101,
+            "protein_intracellular_mg": 2.747,
+            "protein_secreted_mg_L": 3.51676,
+            "gag_systemic_percentage": 498.0
+        },
+        {
+            "time_hours": 406.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.009,
+            "protein_intracellular_mg": 2.4514,
+            "protein_secreted_mg_L": 3.18903,
+            "gag_systemic_percentage": 495.3
+        },
+        {
+            "time_hours": 408.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0081,
+            "protein_intracellular_mg": 2.1875,
+            "protein_secreted_mg_L": 2.88851,
+            "gag_systemic_percentage": 492.6
+        },
+        {
+            "time_hours": 410.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0072,
+            "protein_intracellular_mg": 1.9518,
+            "protein_secreted_mg_L": 2.61354,
+            "gag_systemic_percentage": 489.9
+        },
+        {
+            "time_hours": 412.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0064,
+            "protein_intracellular_mg": 1.7415,
+            "protein_secreted_mg_L": 2.36245,
+            "gag_systemic_percentage": 487.3
+        },
+        {
+            "time_hours": 414.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0057,
+            "protein_intracellular_mg": 1.5537,
+            "protein_secreted_mg_L": 2.13356,
+            "gag_systemic_percentage": 484.6
+        },
+        {
+            "time_hours": 416.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0051,
+            "protein_intracellular_mg": 1.3861,
+            "protein_secreted_mg_L": 1.92525,
+            "gag_systemic_percentage": 481.9
+        },
+        {
+            "time_hours": 418.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0046,
+            "protein_intracellular_mg": 1.2366,
+            "protein_secreted_mg_L": 1.73595,
+            "gag_systemic_percentage": 479.2
+        },
+        {
+            "time_hours": 420.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0041,
+            "protein_intracellular_mg": 1.1031,
+            "protein_secreted_mg_L": 1.56415,
+            "gag_systemic_percentage": 476.6
+        },
+        {
+            "time_hours": 422.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0036,
+            "protein_intracellular_mg": 0.9841,
+            "protein_secreted_mg_L": 1.40842,
+            "gag_systemic_percentage": 473.9
+        },
+        {
+            "time_hours": 424.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0032,
+            "protein_intracellular_mg": 0.8778,
+            "protein_secreted_mg_L": 1.26742,
+            "gag_systemic_percentage": 471.2
+        },
+        {
+            "time_hours": 426.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0029,
+            "protein_intracellular_mg": 0.7831,
+            "protein_secreted_mg_L": 1.13989,
+            "gag_systemic_percentage": 468.6
+        },
+        {
+            "time_hours": 428.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0026,
+            "protein_intracellular_mg": 0.6985,
+            "protein_secreted_mg_L": 1.02465,
+            "gag_systemic_percentage": 465.9
+        },
+        {
+            "time_hours": 430.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0023,
+            "protein_intracellular_mg": 0.6231,
+            "protein_secreted_mg_L": 0.92061,
+            "gag_systemic_percentage": 463.2
+        },
+        {
+            "time_hours": 432.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.002,
+            "protein_intracellular_mg": 0.5558,
+            "protein_secreted_mg_L": 0.82676,
+            "gag_systemic_percentage": 460.6
+        },
+        {
+            "time_hours": 434.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0018,
+            "protein_intracellular_mg": 0.4958,
+            "protein_secreted_mg_L": 0.74216,
+            "gag_systemic_percentage": 457.9
+        },
+        {
+            "time_hours": 436.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0016,
+            "protein_intracellular_mg": 0.4422,
+            "protein_secreted_mg_L": 0.66595,
+            "gag_systemic_percentage": 455.3
+        },
+        {
+            "time_hours": 438.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0015,
+            "protein_intracellular_mg": 0.3945,
+            "protein_secreted_mg_L": 0.59735,
+            "gag_systemic_percentage": 452.7
+        },
+        {
+            "time_hours": 440.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0013,
+            "protein_intracellular_mg": 0.3518,
+            "protein_secreted_mg_L": 0.53563,
+            "gag_systemic_percentage": 450.1
+        },
+        {
+            "time_hours": 442.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0012,
+            "protein_intracellular_mg": 0.3138,
+            "protein_secreted_mg_L": 0.48013,
+            "gag_systemic_percentage": 447.4
+        },
+        {
+            "time_hours": 444.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.001,
+            "protein_intracellular_mg": 0.2799,
+            "protein_secreted_mg_L": 0.43025,
+            "gag_systemic_percentage": 444.8
+        },
+        {
+            "time_hours": 446.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0009,
+            "protein_intracellular_mg": 0.2497,
+            "protein_secreted_mg_L": 0.38544,
+            "gag_systemic_percentage": 442.2
+        },
+        {
+            "time_hours": 448.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0008,
+            "protein_intracellular_mg": 0.2227,
+            "protein_secreted_mg_L": 0.34521,
+            "gag_systemic_percentage": 439.7
+        },
+        {
+            "time_hours": 450.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0007,
+            "protein_intracellular_mg": 0.1987,
+            "protein_secreted_mg_L": 0.3091,
+            "gag_systemic_percentage": 437.1
+        },
+        {
+            "time_hours": 452.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0007,
+            "protein_intracellular_mg": 0.1772,
+            "protein_secreted_mg_L": 0.27671,
+            "gag_systemic_percentage": 434.5
+        },
+        {
+            "time_hours": 454.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0006,
+            "protein_intracellular_mg": 0.1581,
+            "protein_secreted_mg_L": 0.24766,
+            "gag_systemic_percentage": 432.0
+        },
+        {
+            "time_hours": 456.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0005,
+            "protein_intracellular_mg": 0.141,
+            "protein_secreted_mg_L": 0.22161,
+            "gag_systemic_percentage": 429.5
+        },
+        {
+            "time_hours": 458.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0005,
+            "protein_intracellular_mg": 0.1258,
+            "protein_secreted_mg_L": 0.19826,
+            "gag_systemic_percentage": 427.0
+        },
+        {
+            "time_hours": 460.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0004,
+            "protein_intracellular_mg": 0.1122,
+            "protein_secreted_mg_L": 0.17734,
+            "gag_systemic_percentage": 424.5
+        },
+        {
+            "time_hours": 462.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0004,
+            "protein_intracellular_mg": 0.1001,
+            "protein_secreted_mg_L": 0.15861,
+            "gag_systemic_percentage": 422.0
+        },
+        {
+            "time_hours": 464.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0003,
+            "protein_intracellular_mg": 0.0892,
+            "protein_secreted_mg_L": 0.14183,
+            "gag_systemic_percentage": 419.6
+        },
+        {
+            "time_hours": 466.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0003,
+            "protein_intracellular_mg": 0.0796,
+            "protein_secreted_mg_L": 0.1268,
+            "gag_systemic_percentage": 417.2
+        },
+        {
+            "time_hours": 468.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0003,
+            "protein_intracellular_mg": 0.071,
+            "protein_secreted_mg_L": 0.11335,
+            "gag_systemic_percentage": 414.9
+        },
+        {
+            "time_hours": 470.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0002,
+            "protein_intracellular_mg": 0.0633,
+            "protein_secreted_mg_L": 0.10132,
+            "gag_systemic_percentage": 412.5
+        },
+        {
+            "time_hours": 472.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0002,
+            "protein_intracellular_mg": 0.0565,
+            "protein_secreted_mg_L": 0.09055,
+            "gag_systemic_percentage": 410.2
+        },
+        {
+            "time_hours": 474.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0002,
+            "protein_intracellular_mg": 0.0504,
+            "protein_secreted_mg_L": 0.08092,
+            "gag_systemic_percentage": 408.0
+        },
+        {
+            "time_hours": 476.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0002,
+            "protein_intracellular_mg": 0.0449,
+            "protein_secreted_mg_L": 0.0723,
+            "gag_systemic_percentage": 405.8
+        },
+        {
+            "time_hours": 478.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0401,
+            "protein_secreted_mg_L": 0.0646,
+            "gag_systemic_percentage": 403.6
+        },
+        {
+            "time_hours": 480.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0358,
+            "protein_secreted_mg_L": 0.05771,
+            "gag_systemic_percentage": 401.5
+        },
+        {
+            "time_hours": 482.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0319,
+            "protein_secreted_mg_L": 0.05155,
+            "gag_systemic_percentage": 399.4
+        },
+        {
+            "time_hours": 484.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0284,
+            "protein_secreted_mg_L": 0.04604,
+            "gag_systemic_percentage": 397.4
+        },
+        {
+            "time_hours": 486.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0254,
+            "protein_secreted_mg_L": 0.04112,
+            "gag_systemic_percentage": 395.5
+        },
+        {
+            "time_hours": 488.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0226,
+            "protein_secreted_mg_L": 0.03672,
+            "gag_systemic_percentage": 393.6
+        },
+        {
+            "time_hours": 490.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0202,
+            "protein_secreted_mg_L": 0.03279,
+            "gag_systemic_percentage": 391.8
+        },
+        {
+            "time_hours": 492.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.018,
+            "protein_secreted_mg_L": 0.02928,
+            "gag_systemic_percentage": 390.1
+        },
+        {
+            "time_hours": 494.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0161,
+            "protein_secreted_mg_L": 0.02614,
+            "gag_systemic_percentage": 388.5
+        },
+        {
+            "time_hours": 496.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0143,
+            "protein_secreted_mg_L": 0.02334,
+            "gag_systemic_percentage": 386.9
+        },
+        {
+            "time_hours": 498.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0,
+            "protein_intracellular_mg": 0.0128,
+            "protein_secreted_mg_L": 0.02084,
+            "gag_systemic_percentage": 385.4
+        },
+        {
+            "time_hours": 500.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0,
+            "protein_intracellular_mg": 0.0114,
+            "protein_secreted_mg_L": 0.0186,
+            "gag_systemic_percentage": 384.0
+        },
+        {
+            "time_hours": 502.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0,
+            "protein_intracellular_mg": 0.0102,
+            "protein_secreted_mg_L": 0.01661,
+            "gag_systemic_percentage": 382.7
+        },
+        {
+            "time_hours": 504.0,
+            "lnp_plasma_mg": 4.7,
+            "mrna_intracellular_mg": 0.027,
+            "mrna_active_mg": 0.0,
+            "protein_intracellular_mg": 0.0091,
+            "protein_secreted_mg_L": 0.01482,
+            "gag_systemic_percentage": 381.5
+        },
+        {
+            "time_hours": 506.0,
+            "lnp_plasma_mg": 1.3635,
+            "mrna_intracellular_mg": 0.2031,
+            "mrna_active_mg": 0.1023,
+            "protein_intracellular_mg": 1.84,
+            "protein_secreted_mg_L": 0.05707,
+            "gag_systemic_percentage": 380.0
+        },
+        {
+            "time_hours": 508.0,
+            "lnp_plasma_mg": 0.3956,
+            "mrna_intracellular_mg": 0.144,
+            "mrna_active_mg": 0.2101,
+            "protein_intracellular_mg": 8.3603,
+            "protein_secreted_mg_L": 0.46733,
+            "gag_systemic_percentage": 377.6
+        },
+        {
+            "time_hours": 510.0,
+            "lnp_plasma_mg": 0.1148,
+            "mrna_intracellular_mg": 0.0788,
+            "mrna_active_mg": 0.2606,
+            "protein_intracellular_mg": 16.6231,
+            "protein_secreted_mg_L": 1.49081,
+            "gag_systemic_percentage": 375.0
+        },
+        {
+            "time_hours": 512.0,
+            "lnp_plasma_mg": 0.0333,
+            "mrna_intracellular_mg": 0.039,
+            "mrna_active_mg": 0.2707,
+            "protein_intracellular_mg": 23.9786,
+            "protein_secreted_mg_L": 3.05745,
+            "gag_systemic_percentage": 372.3
+        },
+        {
+            "time_hours": 514.0,
+            "lnp_plasma_mg": 0.0097,
+            "mrna_intracellular_mg": 0.0183,
+            "mrna_active_mg": 0.2599,
+            "protein_intracellular_mg": 29.3512,
+            "protein_secreted_mg_L": 4.94432,
+            "gag_systemic_percentage": 369.6
+        },
+        {
+            "time_hours": 516.0,
+            "lnp_plasma_mg": 0.0028,
+            "mrna_intracellular_mg": 0.0084,
+            "mrna_active_mg": 0.2403,
+            "protein_intracellular_mg": 32.6396,
+            "protein_secreted_mg_L": 6.9159,
+            "gag_systemic_percentage": 366.9
+        },
+        {
+            "time_hours": 518.0,
+            "lnp_plasma_mg": 0.0008,
+            "mrna_intracellular_mg": 0.0038,
+            "mrna_active_mg": 0.2183,
+            "protein_intracellular_mg": 34.1552,
+            "protein_secreted_mg_L": 8.7861,
+            "gag_systemic_percentage": 364.2
+        },
+        {
+            "time_hours": 520.0,
+            "lnp_plasma_mg": 0.0002,
+            "mrna_intracellular_mg": 0.0017,
+            "mrna_active_mg": 0.1964,
+            "protein_intracellular_mg": 34.3155,
+            "protein_secreted_mg_L": 10.43198,
+            "gag_systemic_percentage": 361.5
+        },
+        {
+            "time_hours": 522.0,
+            "lnp_plasma_mg": 0.0001,
+            "mrna_intracellular_mg": 0.0007,
+            "mrna_active_mg": 0.176,
+            "protein_intracellular_mg": 33.5116,
+            "protein_secreted_mg_L": 11.78651,
+            "gag_systemic_percentage": 358.8
+        },
+        {
+            "time_hours": 524.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0003,
+            "mrna_active_mg": 0.1573,
+            "protein_intracellular_mg": 32.0643,
+            "protein_secreted_mg_L": 12.82501,
+            "gag_systemic_percentage": 356.1
+        },
+        {
+            "time_hours": 526.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0001,
+            "mrna_active_mg": 0.1404,
+            "protein_intracellular_mg": 30.2199,
+            "protein_secreted_mg_L": 13.55182,
+            "gag_systemic_percentage": 353.4
+        },
+        {
+            "time_hours": 528.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0001,
+            "mrna_active_mg": 0.1253,
+            "protein_intracellular_mg": 28.159,
+            "protein_secreted_mg_L": 13.98951,
+            "gag_systemic_percentage": 350.7
+        },
+        {
+            "time_hours": 530.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.1118,
+            "protein_intracellular_mg": 26.0105,
+            "protein_secreted_mg_L": 14.17069,
+            "gag_systemic_percentage": 348.0
+        },
+        {
+            "time_hours": 532.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0998,
+            "protein_intracellular_mg": 23.8631,
+            "protein_secreted_mg_L": 14.13239,
+            "gag_systemic_percentage": 345.3
+        },
+        {
+            "time_hours": 534.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.089,
+            "protein_intracellular_mg": 21.7763,
+            "protein_secreted_mg_L": 13.91231,
+            "gag_systemic_percentage": 342.7
+        },
+        {
+            "time_hours": 536.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0794,
+            "protein_intracellular_mg": 19.7876,
+            "protein_secreted_mg_L": 13.54639,
+            "gag_systemic_percentage": 340.0
+        },
+        {
+            "time_hours": 538.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0708,
+            "protein_intracellular_mg": 17.9195,
+            "protein_secreted_mg_L": 13.06755,
+            "gag_systemic_percentage": 337.3
+        },
+        {
+            "time_hours": 540.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0632,
+            "protein_intracellular_mg": 16.1833,
+            "protein_secreted_mg_L": 12.50491,
+            "gag_systemic_percentage": 334.6
+        },
+        {
+            "time_hours": 542.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0563,
+            "protein_intracellular_mg": 14.5829,
+            "protein_secreted_mg_L": 11.88368,
+            "gag_systemic_percentage": 331.9
+        },
+        {
+            "time_hours": 544.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0502,
+            "protein_intracellular_mg": 13.1171,
+            "protein_secreted_mg_L": 11.22515,
+            "gag_systemic_percentage": 329.2
+        },
+        {
+            "time_hours": 546.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0448,
+            "protein_intracellular_mg": 11.7811,
+            "protein_secreted_mg_L": 10.54697,
+            "gag_systemic_percentage": 326.5
+        },
+        {
+            "time_hours": 548.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.04,
+            "protein_intracellular_mg": 10.5685,
+            "protein_secreted_mg_L": 9.86348,
+            "gag_systemic_percentage": 323.8
+        },
+        {
+            "time_hours": 550.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0357,
+            "protein_intracellular_mg": 9.4713,
+            "protein_secreted_mg_L": 9.18612,
+            "gag_systemic_percentage": 321.1
+        },
+        {
+            "time_hours": 552.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0318,
+            "protein_intracellular_mg": 8.481,
+            "protein_secreted_mg_L": 8.52375,
+            "gag_systemic_percentage": 318.4
+        },
+        {
+            "time_hours": 554.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0284,
+            "protein_intracellular_mg": 7.5892,
+            "protein_secreted_mg_L": 7.88312,
+            "gag_systemic_percentage": 315.7
+        },
+        {
+            "time_hours": 556.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0253,
+            "protein_intracellular_mg": 6.7874,
+            "protein_secreted_mg_L": 7.26911,
+            "gag_systemic_percentage": 313.0
+        },
+        {
+            "time_hours": 558.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0226,
+            "protein_intracellular_mg": 6.0675,
+            "protein_secreted_mg_L": 6.68513,
+            "gag_systemic_percentage": 310.3
+        },
+        {
+            "time_hours": 560.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0201,
+            "protein_intracellular_mg": 5.422,
+            "protein_secreted_mg_L": 6.13332,
+            "gag_systemic_percentage": 307.6
+        },
+        {
+            "time_hours": 562.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.018,
+            "protein_intracellular_mg": 4.8436,
+            "protein_secreted_mg_L": 5.61485,
+            "gag_systemic_percentage": 304.9
+        },
+        {
+            "time_hours": 564.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.016,
+            "protein_intracellular_mg": 4.3257,
+            "protein_secreted_mg_L": 5.1301,
+            "gag_systemic_percentage": 302.2
+        },
+        {
+            "time_hours": 566.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0143,
+            "protein_intracellular_mg": 3.8624,
+            "protein_secreted_mg_L": 4.6788,
+            "gag_systemic_percentage": 299.5
+        },
+        {
+            "time_hours": 568.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0127,
+            "protein_intracellular_mg": 3.4482,
+            "protein_secreted_mg_L": 4.26023,
+            "gag_systemic_percentage": 296.8
+        },
+        {
+            "time_hours": 570.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0114,
+            "protein_intracellular_mg": 3.0779,
+            "protein_secreted_mg_L": 3.87333,
+            "gag_systemic_percentage": 294.2
+        },
+        {
+            "time_hours": 572.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0101,
+            "protein_intracellular_mg": 2.747,
+            "protein_secreted_mg_L": 3.51676,
+            "gag_systemic_percentage": 291.5
+        },
+        {
+            "time_hours": 574.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.009,
+            "protein_intracellular_mg": 2.4514,
+            "protein_secreted_mg_L": 3.18903,
+            "gag_systemic_percentage": 288.8
+        },
+        {
+            "time_hours": 576.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0081,
+            "protein_intracellular_mg": 2.1875,
+            "protein_secreted_mg_L": 2.88851,
+            "gag_systemic_percentage": 286.1
+        },
+        {
+            "time_hours": 578.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0072,
+            "protein_intracellular_mg": 1.9518,
+            "protein_secreted_mg_L": 2.61354,
+            "gag_systemic_percentage": 283.4
+        },
+        {
+            "time_hours": 580.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0064,
+            "protein_intracellular_mg": 1.7415,
+            "protein_secreted_mg_L": 2.36245,
+            "gag_systemic_percentage": 280.7
+        },
+        {
+            "time_hours": 582.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0057,
+            "protein_intracellular_mg": 1.5537,
+            "protein_secreted_mg_L": 2.13356,
+            "gag_systemic_percentage": 278.1
+        },
+        {
+            "time_hours": 584.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0051,
+            "protein_intracellular_mg": 1.3861,
+            "protein_secreted_mg_L": 1.92525,
+            "gag_systemic_percentage": 275.4
+        },
+        {
+            "time_hours": 586.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0046,
+            "protein_intracellular_mg": 1.2366,
+            "protein_secreted_mg_L": 1.73595,
+            "gag_systemic_percentage": 272.7
+        },
+        {
+            "time_hours": 588.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0041,
+            "protein_intracellular_mg": 1.1031,
+            "protein_secreted_mg_L": 1.56415,
+            "gag_systemic_percentage": 270.0
+        },
+        {
+            "time_hours": 590.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0036,
+            "protein_intracellular_mg": 0.9841,
+            "protein_secreted_mg_L": 1.40842,
+            "gag_systemic_percentage": 267.4
+        },
+        {
+            "time_hours": 592.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0032,
+            "protein_intracellular_mg": 0.8778,
+            "protein_secreted_mg_L": 1.26742,
+            "gag_systemic_percentage": 264.7
+        },
+        {
+            "time_hours": 594.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0029,
+            "protein_intracellular_mg": 0.7831,
+            "protein_secreted_mg_L": 1.13989,
+            "gag_systemic_percentage": 262.0
+        },
+        {
+            "time_hours": 596.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0026,
+            "protein_intracellular_mg": 0.6985,
+            "protein_secreted_mg_L": 1.02465,
+            "gag_systemic_percentage": 259.4
+        },
+        {
+            "time_hours": 598.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0023,
+            "protein_intracellular_mg": 0.6231,
+            "protein_secreted_mg_L": 0.92061,
+            "gag_systemic_percentage": 256.7
+        },
+        {
+            "time_hours": 600.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.002,
+            "protein_intracellular_mg": 0.5558,
+            "protein_secreted_mg_L": 0.82676,
+            "gag_systemic_percentage": 254.1
+        },
+        {
+            "time_hours": 602.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0018,
+            "protein_intracellular_mg": 0.4958,
+            "protein_secreted_mg_L": 0.74216,
+            "gag_systemic_percentage": 251.4
+        },
+        {
+            "time_hours": 604.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0016,
+            "protein_intracellular_mg": 0.4422,
+            "protein_secreted_mg_L": 0.66595,
+            "gag_systemic_percentage": 248.8
+        },
+        {
+            "time_hours": 606.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0015,
+            "protein_intracellular_mg": 0.3945,
+            "protein_secreted_mg_L": 0.59735,
+            "gag_systemic_percentage": 246.2
+        },
+        {
+            "time_hours": 608.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0013,
+            "protein_intracellular_mg": 0.3518,
+            "protein_secreted_mg_L": 0.53563,
+            "gag_systemic_percentage": 243.5
+        },
+        {
+            "time_hours": 610.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0012,
+            "protein_intracellular_mg": 0.3138,
+            "protein_secreted_mg_L": 0.48013,
+            "gag_systemic_percentage": 240.9
+        },
+        {
+            "time_hours": 612.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.001,
+            "protein_intracellular_mg": 0.2799,
+            "protein_secreted_mg_L": 0.43025,
+            "gag_systemic_percentage": 238.3
+        },
+        {
+            "time_hours": 614.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0009,
+            "protein_intracellular_mg": 0.2497,
+            "protein_secreted_mg_L": 0.38544,
+            "gag_systemic_percentage": 235.7
+        },
+        {
+            "time_hours": 616.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0008,
+            "protein_intracellular_mg": 0.2227,
+            "protein_secreted_mg_L": 0.34521,
+            "gag_systemic_percentage": 233.1
+        },
+        {
+            "time_hours": 618.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0007,
+            "protein_intracellular_mg": 0.1987,
+            "protein_secreted_mg_L": 0.3091,
+            "gag_systemic_percentage": 230.6
+        },
+        {
+            "time_hours": 620.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0007,
+            "protein_intracellular_mg": 0.1772,
+            "protein_secreted_mg_L": 0.27671,
+            "gag_systemic_percentage": 228.0
+        },
+        {
+            "time_hours": 622.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0006,
+            "protein_intracellular_mg": 0.1581,
+            "protein_secreted_mg_L": 0.24766,
+            "gag_systemic_percentage": 225.5
+        },
+        {
+            "time_hours": 624.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0005,
+            "protein_intracellular_mg": 0.141,
+            "protein_secreted_mg_L": 0.22161,
+            "gag_systemic_percentage": 223.0
+        },
+        {
+            "time_hours": 626.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0005,
+            "protein_intracellular_mg": 0.1258,
+            "protein_secreted_mg_L": 0.19826,
+            "gag_systemic_percentage": 220.5
+        },
+        {
+            "time_hours": 628.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0004,
+            "protein_intracellular_mg": 0.1122,
+            "protein_secreted_mg_L": 0.17734,
+            "gag_systemic_percentage": 218.0
+        },
+        {
+            "time_hours": 630.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0004,
+            "protein_intracellular_mg": 0.1001,
+            "protein_secreted_mg_L": 0.15861,
+            "gag_systemic_percentage": 215.5
+        },
+        {
+            "time_hours": 632.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0003,
+            "protein_intracellular_mg": 0.0892,
+            "protein_secreted_mg_L": 0.14183,
+            "gag_systemic_percentage": 213.1
+        },
+        {
+            "time_hours": 634.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0003,
+            "protein_intracellular_mg": 0.0796,
+            "protein_secreted_mg_L": 0.1268,
+            "gag_systemic_percentage": 210.7
+        },
+        {
+            "time_hours": 636.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0003,
+            "protein_intracellular_mg": 0.071,
+            "protein_secreted_mg_L": 0.11335,
+            "gag_systemic_percentage": 208.3
+        },
+        {
+            "time_hours": 638.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0002,
+            "protein_intracellular_mg": 0.0633,
+            "protein_secreted_mg_L": 0.10132,
+            "gag_systemic_percentage": 206.0
+        },
+        {
+            "time_hours": 640.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0002,
+            "protein_intracellular_mg": 0.0565,
+            "protein_secreted_mg_L": 0.09055,
+            "gag_systemic_percentage": 203.7
+        },
+        {
+            "time_hours": 642.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0002,
+            "protein_intracellular_mg": 0.0504,
+            "protein_secreted_mg_L": 0.08092,
+            "gag_systemic_percentage": 201.4
+        },
+        {
+            "time_hours": 644.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0002,
+            "protein_intracellular_mg": 0.0449,
+            "protein_secreted_mg_L": 0.0723,
+            "gag_systemic_percentage": 199.2
+        },
+        {
+            "time_hours": 646.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0401,
+            "protein_secreted_mg_L": 0.0646,
+            "gag_systemic_percentage": 197.1
+        },
+        {
+            "time_hours": 648.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0358,
+            "protein_secreted_mg_L": 0.05771,
+            "gag_systemic_percentage": 195.0
+        },
+        {
+            "time_hours": 650.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0319,
+            "protein_secreted_mg_L": 0.05155,
+            "gag_systemic_percentage": 192.9
+        },
+        {
+            "time_hours": 652.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0284,
+            "protein_secreted_mg_L": 0.04604,
+            "gag_systemic_percentage": 190.9
+        },
+        {
+            "time_hours": 654.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0254,
+            "protein_secreted_mg_L": 0.04112,
+            "gag_systemic_percentage": 189.0
+        },
+        {
+            "time_hours": 656.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0226,
+            "protein_secreted_mg_L": 0.03672,
+            "gag_systemic_percentage": 187.1
+        },
+        {
+            "time_hours": 658.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0202,
+            "protein_secreted_mg_L": 0.03279,
+            "gag_systemic_percentage": 185.3
+        },
+        {
+            "time_hours": 660.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.018,
+            "protein_secreted_mg_L": 0.02928,
+            "gag_systemic_percentage": 183.6
+        },
+        {
+            "time_hours": 662.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0161,
+            "protein_secreted_mg_L": 0.02614,
+            "gag_systemic_percentage": 182.0
+        },
+        {
+            "time_hours": 664.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0001,
+            "protein_intracellular_mg": 0.0143,
+            "protein_secreted_mg_L": 0.02334,
+            "gag_systemic_percentage": 180.4
+        },
+        {
+            "time_hours": 666.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0,
+            "protein_intracellular_mg": 0.0128,
+            "protein_secreted_mg_L": 0.02084,
+            "gag_systemic_percentage": 178.9
+        },
+        {
+            "time_hours": 668.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0,
+            "protein_intracellular_mg": 0.0114,
+            "protein_secreted_mg_L": 0.0186,
+            "gag_systemic_percentage": 177.5
+        },
+        {
+            "time_hours": 670.0,
+            "lnp_plasma_mg": 0.0,
+            "mrna_intracellular_mg": 0.0,
+            "mrna_active_mg": 0.0,
+            "protein_intracellular_mg": 0.0102,
+            "protein_secreted_mg_L": 0.01661,
+            "gag_systemic_percentage": 176.2
+        }
+    ]
+}
