@@ -1,0 +1,260 @@
+{
+  "Standard Systemic ERT (Aldurazyme)": [
+    {
+      "week": 1,
+      "plasma_peak_mg_l": 0.0362,
+      "brain_lysosomal_enzyme_mg_l": 0.0,
+      "brain_gag_load_mg": 1000.05,
+      "brain_gag_pct_of_normal": 1000.0
+    },
+    {
+      "week": 2,
+      "plasma_peak_mg_l": 0.0362,
+      "brain_lysosomal_enzyme_mg_l": 0.0,
+      "brain_gag_load_mg": 1142.01,
+      "brain_gag_pct_of_normal": 1142.0
+    },
+    {
+      "week": 3,
+      "plasma_peak_mg_l": 0.0362,
+      "brain_lysosomal_enzyme_mg_l": 0.0,
+      "brain_gag_load_mg": 1262.82,
+      "brain_gag_pct_of_normal": 1262.8
+    },
+    {
+      "week": 4,
+      "plasma_peak_mg_l": 0.0362,
+      "brain_lysosomal_enzyme_mg_l": 0.0,
+      "brain_gag_load_mg": 1365.64,
+      "brain_gag_pct_of_normal": 1365.6
+    },
+    {
+      "week": 5,
+      "plasma_peak_mg_l": 0.0362,
+      "brain_lysosomal_enzyme_mg_l": 0.0,
+      "brain_gag_load_mg": 1453.15,
+      "brain_gag_pct_of_normal": 1453.1
+    },
+    {
+      "week": 6,
+      "plasma_peak_mg_l": 0.0362,
+      "brain_lysosomal_enzyme_mg_l": 0.0,
+      "brain_gag_load_mg": 1527.62,
+      "brain_gag_pct_of_normal": 1527.6
+    },
+    {
+      "week": 7,
+      "plasma_peak_mg_l": 0.0362,
+      "brain_lysosomal_enzyme_mg_l": 0.0,
+      "brain_gag_load_mg": 1591.0,
+      "brain_gag_pct_of_normal": 1591.0
+    },
+    {
+      "week": 8,
+      "plasma_peak_mg_l": 0.0362,
+      "brain_lysosomal_enzyme_mg_l": 0.0,
+      "brain_gag_load_mg": 1644.94,
+      "brain_gag_pct_of_normal": 1644.9
+    },
+    {
+      "week": 9,
+      "plasma_peak_mg_l": 0.0362,
+      "brain_lysosomal_enzyme_mg_l": 0.0,
+      "brain_gag_load_mg": 1690.84,
+      "brain_gag_pct_of_normal": 1690.8
+    },
+    {
+      "week": 10,
+      "plasma_peak_mg_l": 0.0362,
+      "brain_lysosomal_enzyme_mg_l": 0.0,
+      "brain_gag_load_mg": 1729.91,
+      "brain_gag_pct_of_normal": 1729.9
+    },
+    {
+      "week": 11,
+      "plasma_peak_mg_l": 0.0362,
+      "brain_lysosomal_enzyme_mg_l": 0.0,
+      "brain_gag_load_mg": 1763.16,
+      "brain_gag_pct_of_normal": 1763.2
+    },
+    {
+      "week": 12,
+      "plasma_peak_mg_l": 0.0362,
+      "brain_lysosomal_enzyme_mg_l": 0.0,
+      "brain_gag_load_mg": 1791.45,
+      "brain_gag_pct_of_normal": 1791.5
+    }
+  ],
+  "Passive ApoE-Conjugated Nanoparticles": [
+    {
+      "week": 1,
+      "plasma_peak_mg_l": 0.0362,
+      "brain_lysosomal_enzyme_mg_l": 0.0,
+      "brain_gag_load_mg": 1000.05,
+      "brain_gag_pct_of_normal": 1000.0
+    },
+    {
+      "week": 2,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00016,
+      "brain_gag_load_mg": 1021.07,
+      "brain_gag_pct_of_normal": 1021.1
+    },
+    {
+      "week": 3,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00016,
+      "brain_gag_load_mg": 1037.76,
+      "brain_gag_pct_of_normal": 1037.8
+    },
+    {
+      "week": 4,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00016,
+      "brain_gag_load_mg": 1051.95,
+      "brain_gag_pct_of_normal": 1052.0
+    },
+    {
+      "week": 5,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00016,
+      "brain_gag_load_mg": 1064.03,
+      "brain_gag_pct_of_normal": 1064.0
+    },
+    {
+      "week": 6,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00016,
+      "brain_gag_load_mg": 1074.31,
+      "brain_gag_pct_of_normal": 1074.3
+    },
+    {
+      "week": 7,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00016,
+      "brain_gag_load_mg": 1083.06,
+      "brain_gag_pct_of_normal": 1083.1
+    },
+    {
+      "week": 8,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00016,
+      "brain_gag_load_mg": 1090.51,
+      "brain_gag_pct_of_normal": 1090.5
+    },
+    {
+      "week": 9,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00016,
+      "brain_gag_load_mg": 1096.84,
+      "brain_gag_pct_of_normal": 1096.8
+    },
+    {
+      "week": 10,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00016,
+      "brain_gag_load_mg": 1102.24,
+      "brain_gag_pct_of_normal": 1102.2
+    },
+    {
+      "week": 11,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00016,
+      "brain_gag_load_mg": 1106.83,
+      "brain_gag_pct_of_normal": 1106.8
+    },
+    {
+      "week": 12,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00016,
+      "brain_gag_load_mg": 1110.73,
+      "brain_gag_pct_of_normal": 1110.7
+    }
+  ],
+  "Active Magnetically-Guided ApoE-SPIONs": [
+    {
+      "week": 1,
+      "plasma_peak_mg_l": 0.0362,
+      "brain_lysosomal_enzyme_mg_l": 0.0,
+      "brain_gag_load_mg": 1000.05,
+      "brain_gag_pct_of_normal": 1000.0
+    },
+    {
+      "week": 2,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00397,
+      "brain_gag_load_mg": 114.53,
+      "brain_gag_pct_of_normal": 114.5
+    },
+    {
+      "week": 3,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00401,
+      "brain_gag_load_mg": 106.51,
+      "brain_gag_pct_of_normal": 106.5
+    },
+    {
+      "week": 4,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00401,
+      "brain_gag_load_mg": 106.51,
+      "brain_gag_pct_of_normal": 106.5
+    },
+    {
+      "week": 5,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00401,
+      "brain_gag_load_mg": 106.51,
+      "brain_gag_pct_of_normal": 106.5
+    },
+    {
+      "week": 6,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00401,
+      "brain_gag_load_mg": 106.51,
+      "brain_gag_pct_of_normal": 106.5
+    },
+    {
+      "week": 7,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00401,
+      "brain_gag_load_mg": 106.51,
+      "brain_gag_pct_of_normal": 106.5
+    },
+    {
+      "week": 8,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00401,
+      "brain_gag_load_mg": 106.51,
+      "brain_gag_pct_of_normal": 106.5
+    },
+    {
+      "week": 9,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00401,
+      "brain_gag_load_mg": 106.51,
+      "brain_gag_pct_of_normal": 106.5
+    },
+    {
+      "week": 10,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00401,
+      "brain_gag_load_mg": 106.51,
+      "brain_gag_pct_of_normal": 106.5
+    },
+    {
+      "week": 11,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00401,
+      "brain_gag_load_mg": 106.51,
+      "brain_gag_pct_of_normal": 106.5
+    },
+    {
+      "week": 12,
+      "plasma_peak_mg_l": 0.0363,
+      "brain_lysosomal_enzyme_mg_l": 0.00401,
+      "brain_gag_load_mg": 106.51,
+      "brain_gag_pct_of_normal": 106.5
+    }
+  ]
+}
