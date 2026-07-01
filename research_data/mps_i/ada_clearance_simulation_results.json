@@ -1,4 +1,16 @@
 {
+    "metadata": {
+        "title": "MPS-I Anti-Drug Antibody (ADA) Humoral Clearance Kinetics and Tolerization Simulation",
+        "p_i_personas": [
+            "Dr. Marie Curie",
+            "Imhotep"
+        ],
+        "computational_leads": [
+            "Trent",
+            "Aphex"
+        ],
+        "timestamp": "2026-06-30"
+    },
     "time_points_days": [
         0.0,
         0.1,

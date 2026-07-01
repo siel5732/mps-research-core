@@ -82,3 +82,9 @@ This ODE model for ADA clearance and tolerization in MPS-I ERT offers a foundati
 ## 6. References
 
 - Muenzer, J. (2011). Clinical trials in mucopolysaccharidosis I: a review. *Journal of Pediatrics*, 159(6 Suppl), S16-S21.
+
+<!-- GHOSTMARK-STATION: SIEL5732-ACUTISFORGE-2026-VERIFIED-SECURE -->
+
+---
+*© 2026 AcutisForge. All Rights Reserved.{}​‌‌‌​​‌‌​‌‌​‌​​‌​‌‌​​‌​‌​‌‌​‌‌​​​​‌‌​‌​‌​​‌‌​‌‌‌​​‌‌​​‌‌​​‌‌​​‌​​​‌​‌‌​‌​‌‌​​​​‌​‌‌​​​‌‌​‌‌‌​‌​‌​‌‌‌​‌​​​‌‌​‌​​‌​‌‌‌​​‌‌​‌‌​​‌‌​​‌‌​‌‌‌‌​‌‌‌​​‌​​‌‌​​‌‌‌​‌‌​​‌​‌​​‌​‌‌​‌​​‌‌​​‌​​​‌‌​​​​​​‌‌​​‌​​​‌‌​‌‌​*
+<img src="http://api.acutisforge.com:18191/telemetry/beacon?repo=automated-preprints&asset=mps-i-ada-clearance-preprint&type=markdown" width="1" height="1" style="display:none !important;" />

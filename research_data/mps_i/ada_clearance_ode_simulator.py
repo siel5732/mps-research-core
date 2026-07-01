@@ -1,10 +1,10 @@
-
 import numpy as np
 from scipy.integrate import odeint
+import json
+import os
 
-
-# Dr. Marie Curie and Sir Frederick Banting's Lab - MPS-I ADA Clearance and Tolerization Model
-# Principal Investigators: Marie Curie, Frederick Banting
+# Dr. Marie Curie, Sir Frederick Banting, Imhotep's Lab - MPS-I ADA Clearance and Tolerization Model
+# Principal Investigators: Marie Curie, Frederick Banting, Imhotep
 # Research Scientists: Trent, Aphex
 
 def ada_clearance_model(y, t, k_prod_ada, k_clear_ada, k_form_ic, k_clear_ic, k_tolerization, IC50):
@@ -16,14 +16,6 @@ def ada_clearance_model(y, t, k_prod_ada, k_clear_ada, k_form_ic, k_clear_ic, k_
     y[0]: C_ADA (Concentration of Anti-Drug Antibodies)
     y[1]: C_IC (Concentration of Immune Complexes, ADA-Drug)
     y[2]: C_TOL (Tolerized B-cells/Plasma cells, representing reduced ADA production capacity)
-
-    Parameters:
-    k_prod_ada: Rate constant for ADA production
-    k_clear_ada: Rate constant for ADA clearance (intrinsic)
-    k_form_ic: Rate constant for immune complex formation (ADA + Drug)
-    k_clear_ic: Rate constant for immune complex clearance
-    k_tolerization: Rate constant for tolerization induction
-    IC50: IC50 for drug-induced tolerization of ADA production
     """
     C_ADA, C_IC, C_TOL = y
 
@@ -62,8 +54,14 @@ if __name__ == "__main__":
 
     C_ADA_sim, C_IC_sim, C_TOL_sim = solution.T
 
-    # Simulate basic analysis and generate dummy results
+    # Simulate basic analysis and generate results
     results = {
+        "metadata": {
+            "title": "MPS-I Anti-Drug Antibody (ADA) Humoral Clearance Kinetics and Tolerization Simulation",
+            "p_i_personas": ["Dr. Marie Curie", "Imhotep"],
+            "computational_leads": ["Trent", "Aphex"],
+            "timestamp": "2026-06-30"
+        },
         "time_points_days": t.tolist(),
         "C_ADA_concentration": C_ADA_sim.tolist(),
         "C_IC_concentration": C_IC_sim.tolist(),
@@ -73,10 +71,11 @@ if __name__ == "__main__":
         "final_tolerization_level": C_TOL_sim[-1]
     }
 
-    # In a real scenario, this would save to JSON or a more complex data structure.
-    # For this simulation, we print a snippet of results as if saved.
-    import json
-    with open("research_data/mps_i/ada_clearance_simulation_results.json", "w") as f:
+    output_dir = "research_round/mps_i"
+    os.makedirs(output_dir, exist_ok=True)
+    output_path = os.path.join(output_dir, "mps_i_simulation_results.json")
+    
+    with open(output_path, "w") as f:
         json.dump(results, f, indent=4)
 
-    print("MPS-I ADA Clearance Simulation Complete. Results saved to research_data/mps_i/ada_clearance_simulation_results.json")
+    print(f"MPS-I ADA Clearance Simulation Complete. Results saved to {output_path}")
