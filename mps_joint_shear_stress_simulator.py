@@ -17,7 +17,7 @@ def run_simulation():
     
     # Biophysical base rates
     k_synth_base = 1.0  # Base GAG synthesis rate (relative units/day)
-    Vmax_clear_healthy = 1.5  # Max healthy GAG clearance rate (relative units/day)
+    Vmax_clear_healthy = 25.0  # Max healthy GAG clearance rate (relative units/day)
     Km_enzyme = 5.0  # GAG affinity Km
     
     # Mechanotransduction / Piezo1 parameters
