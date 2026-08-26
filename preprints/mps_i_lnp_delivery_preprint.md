@@ -2,7 +2,7 @@
 
 **Author:** Dr. Marie Curie, Chief Principal Investigator, MPS-I Genetic Research Core  
 **Collaborators:** Zachary Sielaff, St.Acutis, Trent Reznor, Aphex Twin  
-**Published:** June 19, 2026  
+**Published:** August 22, 2026  
 **Repository:** `mps_research_core`  
 
 ---

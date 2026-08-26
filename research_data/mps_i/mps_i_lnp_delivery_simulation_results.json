@@ -1,7 +1,7 @@
 {
     "metadata": {
         "title": "LNP-mRNA Delivery and IDUA Expression Kinetics Simulation",
-        "timestamp_utc": "2026-06-30 20:00:00",
+        "timestamp_utc": "2026-08-22 15:00:00",
         "solver": "scipy.integrate.odeint"
     },
     "time_days": [
